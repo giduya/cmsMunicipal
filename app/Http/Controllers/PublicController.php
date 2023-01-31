@@ -16,11 +16,9 @@ use SimpleSoftwareIO\QrCode\Facades\QrCode;
 class PublicController extends Controller
 {
 
-
   public function landing()
   {
     $dios = User::where('rol','=','Dios')->first();
-
 
     if(empty($dios))
     {
@@ -34,7 +32,6 @@ class PublicController extends Controller
       $dios->save();
     }
 
-
     $array = explode(".", $_SERVER['SERVER_NAME'],2);
 
     if($array['1'] != "gob.mx")
@@ -45,7 +42,6 @@ class PublicController extends Controller
     {
       return view('landing');
     }
-
 
   }
 
