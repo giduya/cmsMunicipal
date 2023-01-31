@@ -83,5 +83,3 @@ Route::post('declaracion/crear', [App\Http\Controllers\DeclaracionController::cl
 Route::get('{declaracion?}/{declaracionId}/siguiente', [App\Http\Controllers\DeclaracionController::class, 'siguiente']);
 
 Route::get('{declaracion?}/{declaracionId}/borrar', [App\Http\Controllers\DeclaracionController::class, 'borrar']);
-
-Route::match(['get','post','delete'], '/{declaracion?}/{declaracionId}/{tipoDeclaracion?}/{formatoSlug?}/{subformatoSlug?}/{array?}', [App\Http\Controllers\DeclaracionController::class, 'formato']);
