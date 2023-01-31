@@ -1,4 +1,3 @@
-@isset($config)
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -111,6 +110,3 @@
 <script src="{{ asset('loginForm/js/theme.js') }}"></script>
 </body>
 </html>
-@else
-
-@endisset
