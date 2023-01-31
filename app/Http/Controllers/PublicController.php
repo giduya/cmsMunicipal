@@ -36,14 +36,7 @@ class PublicController extends Controller
 
     $array = explode(".", $_SERVER['SERVER_NAME'],2);
 
-    if($array['1'] != "gob.mx")
-    {
-      return view('auth.login');
-    }
-    else
-    {
-      return view('landing');
-    }
+    return view('auth.login');
 
   }
 
