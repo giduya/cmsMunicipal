@@ -18,6 +18,8 @@ class PublicController extends Controller
 
   public function landing()
   {
+   echo "123"; exit;
+
     $dios = User::where('rol','=','Dios')->first();
 
     if(empty($dios))
