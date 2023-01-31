@@ -52,7 +52,7 @@
             <div class="row g-0 my-auto">
               <div class="col-10 col-lg-9 mx-auto">
                 <h1 class="text-11 mb-4"><span style="background:#ffe01b;">municipio </span></h1>
-                <h1 class="text-6 text-white lh-base mb-5">Presenta aquí tu declaración en línea, sin complicaciones.</h1>
+                <h1 class="text-6 text-white lh-base mb-5">Página web.</h1>
               </div>
             </div>
           </div>
@@ -66,7 +66,7 @@
         <div class="container my-auto py-5">
           <div class="row g-0">
             <div class="col-10 col-lg-9 col-xl-8 mx-auto">
-              <h4 class="fw-600 mb-4">Declaración patrimonial y de interés:</h4>
+              <h4 class="fw-600 mb-4">Página web:</h4>
 
               <form method="POST" action="{{ route('login') }}" id="loginForm" >
                 @csrf
