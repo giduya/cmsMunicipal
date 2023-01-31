@@ -1,0 +1,371 @@
+[{
+  "_id": {
+    "$oid": "62d81085e23c00000800784d"
+  },
+  "declaracion": {
+    "situacionPatrimonial": {
+      "datosGenerales": {
+        "nombre": "",
+        "primerApellido": "",
+        "segundoApellido": "",
+        "curp": "",
+        "rfc": {
+          "rfc": "",
+          "homoClave": ""
+        },
+        "correoElectronico": {
+          "institucional": "",
+          "personal": ""
+        },
+        "telefono": {
+          "ladaCasa": "",
+          "casa": "",
+          "ladaCelular": "",
+          "celularPersonal": ""
+        },
+        "situacionPersonalEstadoCivil": {
+          "clave": "",
+          "valor": ""
+        },
+        "paisNacimiento": "",
+        "nacionalidad": "",
+        "aclaracionesObservaciones": ""
+      },
+      "domicilioDeclarante": {
+        "domicilioMexico": {
+          "calle": "",
+          "numeroExterior": "",
+          "numeroInterior": "",
+          "coloniaLocalidad": "",
+          "municipioAlcaldia": {
+            "clave": "",
+            "valor": ""
+          },
+          "entidadFederativa": {
+            "clave": "",
+            "valor": ""
+          },
+          "codigoPostal": ""
+        },
+        "aclaracionesObservaciones": ""
+      },
+      "datosCurricularesDeclarante": {
+        "escolaridad": [],
+        "aclaracionesObservaciones": "",
+        "ninguno": false
+      },
+      "datosEmpleoCargoComision": {
+        "tipoOperacion": "",
+        "nivelOrdenGobierno": "",
+        "ambitoPublico": "",
+        "nombreEntePublico": "",
+        "areaAdscripcion": "",
+        "empleoCargoComision": "",
+        "contratadoPorHonorarios": "",
+        "nivelEmpleoCargoComision": "",
+        "funcionPrincipal": "",
+        "fechaTomaPosesion": "",
+        "telefonoOficina": {
+          "lada": "",
+          "telefono": "",
+          "extension": ""
+        },
+        "domicilioMexico": {
+          "calle": "",
+          "numeroExterior": "",
+          "numeroInterior": "",
+          "coloniaLocalidad": "",
+          "municipioAlcaldia": {
+            "clave": "",
+            "valor": ""
+          },
+          "entidadFederativa": {
+            "clave": "",
+            "valor": ""
+          },
+          "codigoPostal": ""
+        },
+        "domicilioExtranjero": {
+          "calle": "",
+          "numeroExterior": "",
+          "numeroInterior": "",
+          "ciudadLocalidad": "",
+          "estadoProvincia": "",
+          "pais": "",
+          "codigoPostal": ""
+        },
+        "aclaracionesObservaciones": "",
+        "cuentaConOtroCargoPublico": "",
+        "otroEmpleoCargoComision": []
+      },
+      "experienciaLaboral": {
+        "ninguno": true,
+        "experiencia": [],
+        "aclaracionesObservaciones": "experienciaLaboral"
+      },
+      "datosPareja": {
+        "ninguno": false,
+        "tipoOperacion": "",
+        "nombre": "",
+        "primerApellido": "",
+        "segundoApellido": "",
+        "fechaNacimiento": "",
+        "rfc": "",
+        "relacionConDeclarante": "",
+        "ciudadanoExtranjero": null,
+        "curp": "",
+        "esDependienteEconomico": null,
+        "habitaDomicilioDeclarante": null,
+        "lugarDondeReside": "",
+        "domicilioMexico": {
+          "calle": "",
+          "numeroExterior": "",
+          "numeroInterior": "",
+          "coloniaLocalidad": "",
+          "municipioAlcaldia": {
+            "clave": "",
+            "valor": ""
+          },
+          "entidadFederativa": {
+            "clave": "",
+            "valor": ""
+          },
+          "codigoPostal": ""
+        },
+        "domicilioExtranjero": {
+          "calle": "",
+          "numeroExterior": "",
+          "numeroInterior": "",
+          "ciudadLocalidad": "",
+          "estadoProvincia": "",
+          "pais": "",
+          "codigoPostal": ""
+        },
+        "actividadLaboral": {
+          "clave": "",
+          "valor": ""
+        },
+        "actividadLaboralSectorPublico": {
+          "nivelOrdenGobierno": "",
+          "ambitoPublico": "",
+          "nombreEntePublico": "",
+          "areaAdscripcion": "",
+          "empleoCargoComision": "",
+          "funcionPrincipal": "",
+          "salarioMensualNeto": {
+            "valor": 0,
+            "moneda": ""
+          },
+          "fechaIngreso": ""
+        },
+        "actividadLaboralSectorPrivadoOtro": {
+          "nombreEmpresaSociedadAsociacion": "",
+          "empleoCargoComision": "",
+          "rfc": "",
+          "fechaIngreso": "",
+          "sector": {
+            "clave": "null",
+            "valor": ""
+          },
+          "salarioMensualNeto": {
+            "valor": 0,
+            "moneda": ""
+          },
+          "proveedorContratistaGobierno": false
+        },
+        "aclaracionesObservaciones": ""
+      },
+      "datosDependientesEconomicos": {
+        "ninguno": false,
+        "dependienteEconomico": [],
+        "aclaracionesObservaciones": ""
+      },
+      "ingresos": {
+        "remuneracionNetaCargoPublico": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "otrosIngresosTotal": {
+          "valor": "",
+          "moneda": ""
+        },
+        "actividadIndustrialComercialEmpresarial": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividades": []
+        },
+        "actividadFinanciera": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividades": []
+        },
+        "serviciosProfesionales": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "servicios": []
+        },
+        "enajenacionBienes": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "bienes": []
+        },
+        "otrosIngresos": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "ingresos": []
+        },
+        "ingresoNetoAnualDeclarante": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "ingresoNetoAnualParejaDependiente": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "totalIngresosNetosAnuales": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "aclaracionesObservaciones": ""
+      },
+      "actividadAnualAnterior": {
+        "servidorPublicoAnioAnterior": false,
+        "fechaIngreso": "",
+        "fechaConclusion": "",
+        "remuneracionNetaCargoPublico": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "otrosIngresosTotal": {
+          "valor": "",
+          "moneda": ""
+        },
+        "actividadIndustrialComercialEmpresarial": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividades": []
+        },
+        "actividadFinanciera": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "actividades": []
+        },
+        "serviciosProfesionales": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "servicios": []
+        },
+        "enajenacionBienes": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "bienes": []
+        },
+        "otrosIngresos": {
+          "remuneracionTotal": {
+            "valor": 0,
+            "moneda": "MXN"
+          },
+          "ingresos": []
+        },
+        "ingresoNetoAnualDeclarante": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "ingresoNetoAnualParejaDependiente": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "totalIngresosNetosAnuales": {
+          "valor": 0,
+          "moneda": ""
+        },
+        "aclaracionesObservaciones": ""
+      },
+      "bienesInmuebles": {
+        "ninguno": false,
+        "bienInmueble": [],
+        "aclaracionesObservaciones": ""
+      },
+      "vehiculos": {
+        "ninguno": false,
+        "vehiculo": [],
+        "aclaracionesObservaciones": ""
+      },
+      "bienesMuebles": {
+        "ninguno": false,
+        "bienMueble": [],
+        "aclaracionesObservaciones": ""
+      },
+      "inversionesCuentasValores": {
+        "ninguno": false,
+        "inversion": [],
+        "aclaracionesObservaciones": ""
+      },
+      "adeudosPasivos": {
+        "ninguno": false,
+        "adeudo": [],
+        "aclaracionesObservaciones": ""
+      },
+      "prestamoComodato": {
+        "ninguno": false,
+        "prestamo": [],
+        "aclaracionesObservaciones": ""
+      }
+    },
+    "interes": {
+      "participacion": {
+        "ninguno": false,
+        "participacion": [],
+        "aclaracionesObservaciones": ""
+      },
+      "participacionTomaDecisiones": {
+        "ninguno": false,
+        "participacion": [],
+        "aclaracionesObservaciones": ""
+      },
+      "apoyos": {
+        "ninguno": false,
+        "apoyo": [],
+        "aclaracionesObservaciones": ""
+      },
+      "representaciones": {
+        "ninguno": false,
+        "representacion": [],
+        "aclaracionesObservaciones": ""
+      },
+      "clientesPrincipales": {
+        "ninguno": false,
+        "cliente": [],
+        "aclaracionesObservaciones": ""
+      },
+      "beneficiosPrivados": {
+        "ninguno": false,
+        "beneficio": [],
+        "aclaracionesObservaciones": ""
+      },
+      "fideicomisos": {
+        "ninguno": false,
+        "fideicomiso": [],
+        "aclaracionesObservaciones": ""
+      }
+    }
+  }
+}]

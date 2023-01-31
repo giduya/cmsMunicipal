@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "618868aa7410235d9b8606b5"
+  },
+  "clave": "GS",
+  "valor": "GREMIOS/SINDICATOS",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618868927410235d9b8606b4"
+  },
+  "clave": "PP",
+  "valor": "PARTIDOS POLÍTICOS",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618868bf7410235d9b8606b6"
+  },
+  "clave": "OTRO",
+  "valor": "OTRO (ESPECIFIQUE)",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "618868557410235d9b8606b2"
+  },
+  "clave": "OSC",
+  "valor": "ORGANIZACIONES DE LA SOCIEDAD CIVIL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6188687b7410235d9b8606b3"
+  },
+  "clave": "OB",
+  "valor": "ORGANIZACIONES BENÉFICAS",
+  "lista": 0
+}]

@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "618875dc7410235d9b860731"
+  },
+  "clave": "HRN",
+  "valor": "HERENCIA"
+},{
+  "_id": {
+    "$oid": "6188755b7410235d9b86072e"
+  },
+  "clave": "CPV",
+  "valor": "COMPRAVENTA"
+},{
+  "_id": {
+    "$oid": "618875bf7410235d9b86072f"
+  },
+  "clave": "CSN",
+  "valor": "CESIÓN"
+},{
+  "_id": {
+    "$oid": "618875ce7410235d9b860730"
+  },
+  "clave": "DNC",
+  "valor": "DONACIÓN"
+},{
+  "_id": {
+    "$oid": "618875e97410235d9b860732"
+  },
+  "clave": "PRM",
+  "valor": "PERMUTA"
+},{
+  "_id": {
+    "$oid": "618876107410235d9b860734"
+  },
+  "clave": "STC",
+  "valor": "SENTENCIA"
+},{
+  "_id": {
+    "$oid": "618876027410235d9b860733"
+  },
+  "clave": "RST",
+  "valor": "RIFA O SORTEO"
+}]

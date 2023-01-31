@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "61886d307410235d9b8606ca"
+  },
+  "clave": "DEC",
+  "valor": "DECLARANTE"
+},{
+  "_id": {
+    "$oid": "61886d717410235d9b8606cc"
+  },
+  "clave": "CBN",
+  "valor": "CONCUBINA O CONCUBINARIO"
+},{
+  "_id": {
+    "$oid": "61886d5f7410235d9b8606cb"
+  },
+  "clave": "CYG",
+  "valor": "CONYUGE"
+},{
+  "_id": {
+    "$oid": "61886d7f7410235d9b8606cd"
+  },
+  "clave": "CVV",
+  "valor": "CONVIVIENTE"
+},{
+  "_id": {
+    "$oid": "61886da17410235d9b8606cf"
+  },
+  "clave": "CTER",
+  "valor": "COPROPIEDAD CON TERCEROS"
+},{
+  "_id": {
+    "$oid": "61886d937410235d9b8606ce"
+  },
+  "clave": "DEN",
+  "valor": "DEPENDIENTE ECONÓMICO"
+}]

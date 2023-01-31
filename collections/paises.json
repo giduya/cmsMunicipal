@@ -1,0 +1,1709 @@
+[{
+  "_id": "614291c2e4877a1228c9dbd1",
+  "ESPANOL": "Australia",
+  "ISO2": "AU",
+  "LADA": "61",
+  "Nacionalidad": "Australiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc48",
+  "ESPANOL": "Luxemburgo",
+  "ISO2": "LU",
+  "LADA": "352",
+  "Nacionalidad": "Luxemburgues",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca4",
+  "ESPANOL": "Taiwan",
+  "ISO2": "TW",
+  "LADA": "886",
+  "Nacionalidad": "Taiwanes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dcad",
+  "ESPANOL": "San Vicente y las Granadinas",
+  "ISO2": "VC",
+  "LADA": "1+809",
+  "Nacionalidad": "Sanvicentino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbfc",
+  "ESPANOL": "Yibuti",
+  "ISO2": "DJ",
+  "LADA": "253",
+  "Nacionalidad": "Yibutiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc06",
+  "ESPANOL": "Espana",
+  "ISO2": "ES",
+  "LADA": "34",
+  "Nacionalidad": "Espanol",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc58",
+  "ESPANOL": "Martinica",
+  "ISO2": "MQ",
+  "LADA": "596",
+  "Nacionalidad": "Martiniques",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc6e",
+  "ESPANOL": "Oman",
+  "ISO2": "OM",
+  "LADA": "968",
+  "Nacionalidad": "Omani",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc6f",
+  "ESPANOL": "Panama",
+  "ISO2": "PA",
+  "LADA": "507",
+  "Nacionalidad": "Panameno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe3",
+  "ESPANOL": "Bahamas",
+  "ISO2": "BS",
+  "LADA": "1+242",
+  "Nacionalidad": "Bahameno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca9",
+  "ESPANOL": "Estados Unidos de America",
+  "ISO2": "US",
+  "LADA": "1",
+  "Nacionalidad": "Estadounidense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbcf",
+  "ESPANOL": "Samoa Americana",
+  "ISO2": "AS",
+  "LADA": "684",
+  "Nacionalidad": "Samoamericano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbd0",
+  "ESPANOL": "Austria",
+  "ISO2": "AT",
+  "LADA": "43",
+  "Nacionalidad": "Austriaco",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc01",
+  "ESPANOL": "Ecuador",
+  "ISO2": "EC",
+  "LADA": "593",
+  "Nacionalidad": "Ecuatoriano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc4e",
+  "ESPANOL": "Montenegro",
+  "ISO2": "ME",
+  "LADA": "382",
+  "Nacionalidad": "Montenegrino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc50",
+  "ESPANOL": "Madagascar",
+  "ISO2": "MG",
+  "LADA": "261",
+  "Nacionalidad": "Malgache",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc54",
+  "ESPANOL": "Birmania",
+  "ISO2": "MM",
+  "LADA": "95",
+  "Nacionalidad": "Birmano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc59",
+  "ESPANOL": "Mauritania",
+  "ISO2": "MR",
+  "LADA": "222",
+  "Nacionalidad": "Mauritano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc73",
+  "ESPANOL": "Filipinas",
+  "ISO2": "PH",
+  "LADA": "63",
+  "Nacionalidad": "Filipino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc7f",
+  "ESPANOL": "Rumania",
+  "ISO2": "RO",
+  "LADA": "40",
+  "Nacionalidad": "Rumano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf4",
+  "ESPANOL": "Colombia",
+  "ISO2": "CO",
+  "LADA": "57",
+  "Nacionalidad": "Colombiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc2d",
+  "ESPANOL": "Irak",
+  "ISO2": "IQ",
+  "LADA": "964",
+  "Nacionalidad": "Iraqui",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd9",
+  "ESPANOL": "Burkina Faso",
+  "ISO2": "BF",
+  "LADA": "226",
+  "Nacionalidad": "Burkines",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbed",
+  "ESPANOL": "Congo",
+  "ISO2": "CG",
+  "LADA": "243",
+  "Nacionalidad": "Congoleno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc5c",
+  "ESPANOL": "Mauricio",
+  "ISO2": "MU",
+  "LADA": "230",
+  "Nacionalidad": "Mauriciano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc91",
+  "ESPANOL": "Surinam",
+  "ISO2": "SR",
+  "LADA": "597",
+  "Nacionalidad": "Surinames",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf3",
+  "ESPANOL": "China",
+  "ISO2": "CN",
+  "LADA": "86",
+  "Nacionalidad": "Chino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf2",
+  "ESPANOL": "Camerun",
+  "ISO2": "CM",
+  "LADA": "237",
+  "Nacionalidad": "Camerunes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc24",
+  "ESPANOL": "Croacia",
+  "ISO2": "HR",
+  "LADA": "385",
+  "Nacionalidad": "Croata",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc36",
+  "ESPANOL": "Kirguistan",
+  "ISO2": "KG",
+  "LADA": "996",
+  "Nacionalidad": "Kirguis",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc4f",
+  "ESPANOL": "San Martin (Francia)",
+  "ISO2": "MF",
+  "LADA": "599+5",
+  "Nacionalidad": "Sanmartitense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc6c",
+  "ESPANOL": "Niue",
+  "ISO2": "NU",
+  "LADA": "683",
+  "Nacionalidad": "Niueno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc9a",
+  "ESPANOL": "Tailandia",
+  "ISO2": "TH",
+  "LADA": "66",
+  "Nacionalidad": "Tailandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcb3",
+  "ESPANOL": "Wallis y Futuna",
+  "ISO2": "WF",
+  "LADA": "681",
+  "Nacionalidad": "Walisiano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbf9",
+  "ESPANOL": "Chipre",
+  "ISO2": "CY",
+  "LADA": "357",
+  "Nacionalidad": "Chipriota",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc44",
+  "ESPANOL": "Sri lanka",
+  "ISO2": "LK",
+  "LADA": "94",
+  "Nacionalidad": "Ceilanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc0f",
+  "ESPANOL": "Reino Unido",
+  "ISO2": "GB",
+  "LADA": "44",
+  "Nacionalidad": "Britanico",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc5b",
+  "ESPANOL": "Malta",
+  "ISO2": "MT",
+  "LADA": "356",
+  "Nacionalidad": "Maltes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc61",
+  "ESPANOL": "Mozambique",
+  "ISO2": "MZ",
+  "LADA": "258",
+  "Nacionalidad": "Mozambiqueno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc7c",
+  "ESPANOL": "Paraguay",
+  "ISO2": "PY",
+  "LADA": "595",
+  "Nacionalidad": "Paraguayo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcae",
+  "ESPANOL": "Venezuela",
+  "ISO2": "VE",
+  "LADA": "58",
+  "Nacionalidad": "Venezolano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd6",
+  "ESPANOL": "Barbados",
+  "ISO2": "BB",
+  "LADA": "1+246",
+  "Nacionalidad": "Barbadense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc5d",
+  "ESPANOL": "Islas Maldivas",
+  "ISO2": "MV",
+  "LADA": "960",
+  "Nacionalidad": "Maldivo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc75",
+  "ESPANOL": "Polonia",
+  "ISO2": "PL",
+  "LADA": "48",
+  "Nacionalidad": "Polaco",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbfe",
+  "ESPANOL": "Dominica",
+  "ISO2": "DM",
+  "LADA": "1",
+  "Nacionalidad": "Dominiques",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc19",
+  "ESPANOL": "Guadalupe",
+  "ISO2": "GP",
+  "LADA": "590",
+  "Nacionalidad": "Guadalupeno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc26",
+  "ESPANOL": "Hungria",
+  "ISO2": "HU",
+  "LADA": "36",
+  "Nacionalidad": "Hungaro",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc3a",
+  "ESPANOL": "San Cristobal y Nieves",
+  "ISO2": "KN",
+  "LADA": "967",
+  "Nacionalidad": "Sancristobaleno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc46",
+  "ESPANOL": "Lesoto",
+  "ISO2": "LS",
+  "LADA": "266",
+  "Nacionalidad": "Lesotense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc4d",
+  "ESPANOL": "Moldavia",
+  "ISO2": "MD",
+  "LADA": "373",
+  "Nacionalidad": "Moldavo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc66",
+  "ESPANOL": "Nigeria",
+  "ISO2": "NG",
+  "LADA": "234",
+  "Nacionalidad": "Nigeriano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc00",
+  "ESPANOL": "Argelia",
+  "ISO2": "DZ",
+  "LADA": "213",
+  "Nacionalidad": "Argelino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc67",
+  "ESPANOL": "Nicaragua",
+  "ISO2": "NI",
+  "LADA": "505",
+  "Nacionalidad": "Nicaraguense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc70",
+  "ESPANOL": "Peru",
+  "ISO2": "PE",
+  "LADA": "51",
+  "Nacionalidad": "Peruano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca7",
+  "ESPANOL": "Uganda",
+  "ISO2": "UG",
+  "LADA": "256",
+  "Nacionalidad": "Ugandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcb1",
+  "ESPANOL": "Vietnam",
+  "ISO2": "VN",
+  "LADA": "84",
+  "Nacionalidad": "Vietnamita",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc11",
+  "ESPANOL": "Georgia",
+  "ISO2": "GE",
+  "LADA": "995",
+  "Nacionalidad": "Georgiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc65",
+  "ESPANOL": "Isla Norfolk",
+  "ISO2": "NF",
+  "LADA": "672",
+  "Nacionalidad": "Norfolkense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc6d",
+  "ESPANOL": "Nueva Zelanda",
+  "ISO2": "NZ",
+  "LADA": "64",
+  "Nacionalidad": "Neozelandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcb0",
+  "ESPANOL": "Islas Virgenes de los Estados Unidos",
+  "ISO2": "VI",
+  "LADA": "1+340",
+  "Nacionalidad": "Virgenense Estadounidense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dcb6",
+  "ESPANOL": "Mayotte",
+  "ISO2": "YT",
+  "LADA": "262",
+  "Nacionalidad": "Mayotense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dcb8",
+  "ESPANOL": "Zambia",
+  "ISO2": "ZM",
+  "LADA": "260",
+  "Nacionalidad": "Zambiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe6",
+  "ESPANOL": "Botsuana",
+  "ISO2": "BW",
+  "LADA": "267",
+  "Nacionalidad": "Botsuano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf1",
+  "ESPANOL": "Chile",
+  "ISO2": "CL",
+  "LADA": "56",
+  "Nacionalidad": "Chileno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf5",
+  "ESPANOL": "Costa Rica",
+  "ISO2": "CR",
+  "LADA": "506",
+  "Nacionalidad": "Costarricense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbcc",
+  "ESPANOL": "Angola",
+  "ISO2": "AO",
+  "LADA": "244",
+  "Nacionalidad": "Angoleno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbcd",
+  "ESPANOL": "Antartida",
+  "ISO2": "AQ",
+  "LADA": "672",
+  "Nacionalidad": "Antartico",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbc5",
+  "ESPANOL": "Emiratos Arabes Unidos",
+  "ISO2": "AE",
+  "LADA": "971",
+  "Nacionalidad": "Emirati",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd8",
+  "ESPANOL": "Belgica",
+  "ISO2": "BE",
+  "LADA": "32",
+  "Nacionalidad": "Belga",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf7",
+  "ESPANOL": "Cabo Verde",
+  "ISO2": "CV",
+  "LADA": "238",
+  "Nacionalidad": "Caboverdiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbfd",
+  "ESPANOL": "Dinamarca",
+  "ISO2": "DK",
+  "LADA": "45",
+  "Nacionalidad": "Danes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc04",
+  "ESPANOL": "Sahara Occidental",
+  "ISO2": "EH",
+  "LADA": "212",
+  "Nacionalidad": "Saharaui",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc08",
+  "ESPANOL": "Finlandia",
+  "ISO2": "FI",
+  "LADA": "358",
+  "Nacionalidad": "Finlandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc02",
+  "ESPANOL": "Estonia",
+  "ISO2": "EE",
+  "LADA": "372",
+  "Nacionalidad": "Estonio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc3e",
+  "ESPANOL": "Islas Caiman",
+  "ISO2": "KY",
+  "LADA": "1+345",
+  "Nacionalidad": "Caimanes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbd4",
+  "ESPANOL": "Azerbaiyan",
+  "ISO2": "AZ",
+  "LADA": "994",
+  "Nacionalidad": "Azerbaiyano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc37",
+  "ESPANOL": "Camboya",
+  "ISO2": "KH",
+  "LADA": "855",
+  "Nacionalidad": "Camboyano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc4c",
+  "ESPANOL": "Monaco",
+  "ISO2": "MC",
+  "LADA": "377",
+  "Nacionalidad": "Monegasco",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc5f",
+  "ESPANOL": "Mexico",
+  "ISO2": "MX",
+  "LADA": "52",
+  "Nacionalidad": "Mexicano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc71",
+  "ESPANOL": "Polinesia Francesa",
+  "ISO2": "PF",
+  "LADA": "689",
+  "Nacionalidad": "Francopolinesio",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc78",
+  "ESPANOL": "Puerto Rico",
+  "ISO2": "PR",
+  "LADA": "1+78",
+  "Nacionalidad": "Puertorriqueno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc30",
+  "ESPANOL": "Italia",
+  "ISO2": "IT",
+  "LADA": "39",
+  "Nacionalidad": "Italiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc42",
+  "ESPANOL": "Santa Lucia",
+  "ISO2": "LC",
+  "LADA": "1+758",
+  "Nacionalidad": "Santalucense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc1d",
+  "ESPANOL": "Guatemala",
+  "ISO2": "GT",
+  "LADA": "502",
+  "Nacionalidad": "Guatemalteco",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc3d",
+  "ESPANOL": "Kuwait",
+  "ISO2": "KW",
+  "LADA": "965",
+  "Nacionalidad": "Kuwaiti",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc56",
+  "ESPANOL": "Macao",
+  "ISO2": "MO",
+  "LADA": "853",
+  "Nacionalidad": "Macaense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc63",
+  "ESPANOL": "Nueva Caledonia",
+  "ISO2": "NC",
+  "LADA": "687",
+  "Nacionalidad": "Neocaledonio",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc8e",
+  "ESPANOL": "San Marino",
+  "ISO2": "SM",
+  "LADA": "378",
+  "Nacionalidad": "Sanmarinense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd5",
+  "ESPANOL": "Bosnia y Herzegovina",
+  "ISO2": "BA",
+  "LADA": "387",
+  "Nacionalidad": "Bosnio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbef",
+  "ESPANOL": "Costa de Marfil",
+  "ISO2": "CI",
+  "LADA": "255",
+  "Nacionalidad": "Marfileno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbfa",
+  "ESPANOL": "Republica Checa",
+  "ISO2": "CZ",
+  "LADA": "420",
+  "Nacionalidad": "Checo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcb9",
+  "ESPANOL": "Zimbabue",
+  "ISO2": "ZW",
+  "LADA": "263",
+  "Nacionalidad": "Zimbabuense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbc9",
+  "ESPANOL": "Albania",
+  "ISO2": "AL",
+  "LADA": "355",
+  "Nacionalidad": "Albanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc62",
+  "ESPANOL": "Namibia",
+  "ISO2": "NA",
+  "LADA": "264",
+  "Nacionalidad": "Namibio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc6b",
+  "ESPANOL": "Nauru",
+  "ISO2": "NR",
+  "LADA": "674",
+  "Nacionalidad": "Nauruano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc96",
+  "ESPANOL": "Islas Turcas y Caicos",
+  "ISO2": "TC",
+  "LADA": "1+649",
+  "Nacionalidad": "Turcocaiqueno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc0e",
+  "ESPANOL": "Gabon",
+  "ISO2": "GA",
+  "LADA": "241",
+  "Nacionalidad": "Gabones",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc33",
+  "ESPANOL": "Jordania",
+  "ISO2": "JO",
+  "LADA": "962",
+  "Nacionalidad": "Jordano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc7b",
+  "ESPANOL": "Palau",
+  "ISO2": "PW",
+  "LADA": "680",
+  "Nacionalidad": "Palauano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dcb5",
+  "ESPANOL": "Yemen",
+  "ISO2": "YE",
+  "LADA": "967",
+  "Nacionalidad": "Yemeni",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd7",
+  "ESPANOL": "Bangladesh",
+  "ISO2": "BD",
+  "LADA": "880",
+  "Nacionalidad": "Bangladesi",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc27",
+  "ESPANOL": "Indonesia",
+  "ISO2": "ID",
+  "LADA": "62",
+  "Nacionalidad": "Indonesio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc7e",
+  "ESPANOL": "Reunion",
+  "ISO2": "RE",
+  "LADA": "262",
+  "Nacionalidad": "Reuniones",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbee",
+  "ESPANOL": "Suiza",
+  "ISO2": "CH",
+  "LADA": "41",
+  "Nacionalidad": "Suizo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc28",
+  "ESPANOL": "Irlanda",
+  "ISO2": "IE",
+  "LADA": "353",
+  "Nacionalidad": "Irlandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc93",
+  "ESPANOL": "El Salvador",
+  "ISO2": "SV",
+  "LADA": "503",
+  "Nacionalidad": "Salvadoreno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc94",
+  "ESPANOL": "Siria",
+  "ISO2": "SY",
+  "LADA": "963",
+  "Nacionalidad": "Sirio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe5",
+  "ESPANOL": "Isla Bouvet",
+  "ISO2": "BV",
+  "LADA": "LADA",
+  "Extraterritorial": "1",
+  "Nacionalidad": "Noruego"
+},{
+  "_id": "614291c2e4877a1228c9dc05",
+  "ESPANOL": "Eritrea",
+  "ISO2": "ER",
+  "LADA": "291",
+  "Nacionalidad": "Eritreo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc14",
+  "ESPANOL": "Ghana",
+  "ISO2": "GH",
+  "LADA": "233",
+  "Nacionalidad": "Ghanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc1f",
+  "ESPANOL": "Guinea-Bissau",
+  "ISO2": "GW",
+  "LADA": "245",
+  "Nacionalidad": "Bisauguineano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc3c",
+  "ESPANOL": "Corea del Sur",
+  "ISO2": "KR",
+  "LADA": "82",
+  "Nacionalidad": "Surcoreano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc55",
+  "ESPANOL": "Mongolia",
+  "ISO2": "MN",
+  "LADA": "976",
+  "Nacionalidad": "Mongol",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe1",
+  "ESPANOL": "Bolivia",
+  "ISO2": "BO",
+  "LADA": "591",
+  "Nacionalidad": "Boliviano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd3",
+  "ESPANOL": "Islas de Aland",
+  "ISO2": "AX",
+  "LADA": "35818",
+  "Nacionalidad": "Alandes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc07",
+  "ESPANOL": "Etiopia",
+  "ISO2": "ET",
+  "LADA": "251",
+  "Nacionalidad": "Etiope",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc16",
+  "ESPANOL": "Groenlandia",
+  "ISO2": "GL",
+  "LADA": "229",
+  "Nacionalidad": "Groenlandes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc17",
+  "ESPANOL": "Gambia",
+  "ISO2": "GM",
+  "LADA": "220",
+  "Nacionalidad": "Gambiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc2a",
+  "ESPANOL": "Isla de Man",
+  "ISO2": "IM",
+  "LADA": "44",
+  "Nacionalidad": "Manes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc83",
+  "ESPANOL": "Arabia Saudita",
+  "ISO2": "SA",
+  "LADA": "966",
+  "Nacionalidad": "Saudi",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc8f",
+  "ESPANOL": "Senegal",
+  "ISO2": "SN",
+  "LADA": "221",
+  "Nacionalidad": "Senegales",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcb4",
+  "ESPANOL": "Samoa",
+  "ISO2": "WS",
+  "LADA": "685",
+  "Nacionalidad": "Samoano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc03",
+  "ESPANOL": "Egipto",
+  "ISO2": "EG",
+  "LADA": "20",
+  "Nacionalidad": "Egipcio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc1a",
+  "ESPANOL": "Guinea Ecuatorial",
+  "ISO2": "GQ",
+  "LADA": "240",
+  "Nacionalidad": "Guineano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc29",
+  "ESPANOL": "Israel",
+  "ISO2": "IL",
+  "LADA": "972",
+  "Nacionalidad": "Israeli",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc2e",
+  "ESPANOL": "Iran",
+  "ISO2": "IR",
+  "LADA": "98",
+  "Nacionalidad": "Irani",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc4b",
+  "ESPANOL": "Marruecos",
+  "ISO2": "MA",
+  "LADA": "212",
+  "Nacionalidad": "Marroqui",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc79",
+  "ESPANOL": "Palestina",
+  "ISO2": "PS",
+  "LADA": "970",
+  "Nacionalidad": "Palestino",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dcb7",
+  "ESPANOL": "Sudafrica",
+  "ISO2": "ZA",
+  "LADA": "27",
+  "Nacionalidad": "Sudafricano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc0c",
+  "ESPANOL": "Islas Feroe",
+  "ISO2": "FO",
+  "LADA": "298",
+  "Nacionalidad": "Feroes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc81",
+  "ESPANOL": "Rusia",
+  "ISO2": "RU",
+  "LADA": "7",
+  "Nacionalidad": "Ruso",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc87",
+  "ESPANOL": "Suecia",
+  "ISO2": "SE",
+  "LADA": "46",
+  "Nacionalidad": "Sueco",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc95",
+  "ESPANOL": "Swazilandia",
+  "ISO2": "SZ",
+  "LADA": "268",
+  "Nacionalidad": "Suazi",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc21",
+  "ESPANOL": "Hong kong",
+  "ISO2": "HK",
+  "LADA": "852",
+  "Nacionalidad": "Hongkones",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc35",
+  "ESPANOL": "Kenia",
+  "ISO2": "KE",
+  "LADA": "264",
+  "Nacionalidad": "Keniano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc47",
+  "ESPANOL": "Lituania",
+  "ISO2": "LT",
+  "LADA": "370",
+  "Nacionalidad": "Lituano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc9e",
+  "ESPANOL": "Turkmenistan",
+  "ISO2": "TM",
+  "LADA": "993",
+  "Nacionalidad": "Turcomano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc1e",
+  "ESPANOL": "Guam",
+  "ISO2": "GU",
+  "LADA": "671",
+  "Nacionalidad": "Guameno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbec",
+  "ESPANOL": "Republica Centroafricana",
+  "ISO2": "CF",
+  "LADA": "236",
+  "Nacionalidad": "Centroafricano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc09",
+  "ESPANOL": "Fiyi",
+  "ISO2": "FJ",
+  "LADA": "679",
+  "Nacionalidad": "Fiyiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc15",
+  "ESPANOL": "Gibraltar",
+  "ISO2": "GI",
+  "LADA": "350",
+  "Nacionalidad": "Gibraltareno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc45",
+  "ESPANOL": "Liberia",
+  "ISO2": "LR",
+  "LADA": "231",
+  "Nacionalidad": "Liberiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc57",
+  "ESPANOL": "Islas Marianas del Norte",
+  "ISO2": "MP",
+  "LADA": "670",
+  "Nacionalidad": "Chamorro",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc90",
+  "ESPANOL": "Somalia",
+  "ISO2": "SO",
+  "LADA": "252",
+  "Nacionalidad": "Somali",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc97",
+  "ESPANOL": "Chad",
+  "ISO2": "TD",
+  "LADA": "235",
+  "Nacionalidad": "Chadiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc9c",
+  "ESPANOL": "Tokelau",
+  "ISO2": "TK",
+  "LADA": "690",
+  "Nacionalidad": "Tokelauense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbfb",
+  "ESPANOL": "Alemania",
+  "ISO2": "DE",
+  "LADA": "49",
+  "Nacionalidad": "Aleman",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc8b",
+  "ESPANOL": "Svalbard y Jan Mayen",
+  "ISO2": "SJ",
+  "LADA": "47",
+  "Nacionalidad": "Svalbarense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc40",
+  "ESPANOL": "Laos",
+  "ISO2": "LA",
+  "LADA": "856",
+  "Nacionalidad": "Laosiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc52",
+  "ESPANOL": "Macedonia",
+  "ISO2": "MK",
+  "LADA": "389",
+  "Nacionalidad": "Macedonio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc84",
+  "ESPANOL": "Islas Salomon",
+  "ISO2": "SB",
+  "LADA": "677",
+  "Nacionalidad": "Salomonense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dcb2",
+  "ESPANOL": "Vanuatu",
+  "ISO2": "VU",
+  "LADA": "678",
+  "Nacionalidad": "Vanuatuense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbdf",
+  "ESPANOL": "Islas Bermudas",
+  "ISO2": "BM",
+  "LADA": "1+441",
+  "Nacionalidad": "Bermudeno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbea",
+  "ESPANOL": "Islas Cocos (Keeling)",
+  "ISO2": "CC",
+  "LADA": "61",
+  "Nacionalidad": "Cocano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc0d",
+  "ESPANOL": "Francia",
+  "ISO2": "FR",
+  "LADA": "33",
+  "Nacionalidad": "Frances",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc39",
+  "ESPANOL": "Comoras",
+  "ISO2": "KM",
+  "LADA": "269",
+  "Nacionalidad": "Comorense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc49",
+  "ESPANOL": "Letonia",
+  "ISO2": "LV",
+  "LADA": "371",
+  "Nacionalidad": "Leton",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca2",
+  "ESPANOL": "Trinidad y Tobago",
+  "ISO2": "TT",
+  "LADA": "1+868",
+  "Nacionalidad": "Trinitense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc18",
+  "ESPANOL": "Guinea",
+  "ISO2": "GN",
+  "LADA": "224",
+  "Nacionalidad": "Guineano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc60",
+  "ESPANOL": "Malasia",
+  "ISO2": "MY",
+  "LADA": "60",
+  "Nacionalidad": "Malasio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc89",
+  "ESPANOL": "Santa Elena",
+  "ISO2": "SH",
+  "LADA": "290",
+  "Nacionalidad": "Santaheleno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc72",
+  "ESPANOL": "Papua Nueva Guinea",
+  "ISO2": "PG",
+  "LADA": "675",
+  "Nacionalidad": "Papu",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc9f",
+  "ESPANOL": "Tunez",
+  "ISO2": "TN",
+  "LADA": "216",
+  "Nacionalidad": "Tunecino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca1",
+  "ESPANOL": "Turquia",
+  "ISO2": "TR",
+  "LADA": "90",
+  "Nacionalidad": "Turco",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc23",
+  "ESPANOL": "Honduras",
+  "ISO2": "HN",
+  "LADA": "504",
+  "Nacionalidad": "Hondureno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc9d",
+  "ESPANOL": "Timor Oriental",
+  "ISO2": "TL",
+  "LADA": "670",
+  "Nacionalidad": "Timorense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbdd",
+  "ESPANOL": "Benin",
+  "ISO2": "BJ",
+  "LADA": "229",
+  "Nacionalidad": "Benines",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe2",
+  "ESPANOL": "Brasil",
+  "ISO2": "BR",
+  "LADA": "55",
+  "Nacionalidad": "Brasileno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf0",
+  "ESPANOL": "Islas Cook",
+  "ISO2": "CK",
+  "LADA": "682",
+  "Nacionalidad": "Cookiano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dca3",
+  "ESPANOL": "Tuvalu",
+  "ISO2": "TV",
+  "LADA": "688",
+  "Nacionalidad": "Tuvaluano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc77",
+  "ESPANOL": "Islas Pitcairn",
+  "ISO2": "PN",
+  "LADA": "64",
+  "Nacionalidad": "Pitcairnes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbc8",
+  "ESPANOL": "Anguila",
+  "ISO2": "AI",
+  "LADA": "1+264",
+  "Nacionalidad": "Anguilense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc2c",
+  "ESPANOL": "Territorio Britanico del Oceano Indico",
+  "ISO2": "IO",
+  "LADA": "246",
+  "Nacionalidad": "Chago-Britanico",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbc6",
+  "ESPANOL": "Afganistan",
+  "ISO2": "AF",
+  "LADA": "93",
+  "Nacionalidad": "Afgano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbeb",
+  "ESPANOL": "Congo",
+  "ISO2": "CD",
+  "LADA": "242",
+  "Nacionalidad": "Congoleno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc43",
+  "ESPANOL": "Liechtenstein",
+  "ISO2": "LI",
+  "LADA": "423",
+  "Nacionalidad": "Liechtensteiniano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc85",
+  "ESPANOL": "Seychelles",
+  "ISO2": "SC",
+  "LADA": "248",
+  "Nacionalidad": "Seychellense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbda",
+  "ESPANOL": "Bulgaria",
+  "ISO2": "BG",
+  "LADA": "359",
+  "Nacionalidad": "Bulgaro",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe7",
+  "ESPANOL": "Bielorrusia",
+  "ISO2": "BY",
+  "LADA": "375",
+  "Nacionalidad": "Bielorruso",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf8",
+  "ESPANOL": "Isla de Navidad",
+  "ISO2": "CX",
+  "LADA": "61",
+  "Nacionalidad": "Navideno",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc0a",
+  "ESPANOL": "Islas Malvinas",
+  "ISO2": "FK",
+  "LADA": "500",
+  "Nacionalidad": "Maldivo",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc3f",
+  "ESPANOL": "Kazajistan",
+  "ISO2": "KZ",
+  "LADA": "7",
+  "Nacionalidad": "Kazajo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc80",
+  "ESPANOL": "Serbia",
+  "ISO2": "RS",
+  "LADA": "381",
+  "Nacionalidad": "Serbio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc99",
+  "ESPANOL": "Togo",
+  "ISO2": "TG",
+  "LADA": "228",
+  "Nacionalidad": "Togoles",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe9",
+  "ESPANOL": "Canada",
+  "ISO2": "CA",
+  "LADA": "1",
+  "Nacionalidad": "Canadiense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc1c",
+  "ESPANOL": "Islas Georgias del Sur y Sandwich del Sur",
+  "ISO2": "GS",
+  "LADA": "500",
+  "Nacionalidad": "Georgiano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc5a",
+  "ESPANOL": "Montserrat",
+  "ISO2": "MS",
+  "LADA": "1+664",
+  "Nacionalidad": "Monserratino",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc68",
+  "ESPANOL": "Paises Bajos",
+  "ISO2": "NL",
+  "LADA": "31",
+  "Nacionalidad": "Neerlandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc69",
+  "ESPANOL": "Noruega",
+  "ISO2": "NO",
+  "LADA": "47",
+  "Nacionalidad": "Noruego",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc8a",
+  "ESPANOL": "Eslovenia",
+  "ISO2": "SI",
+  "LADA": "386",
+  "Nacionalidad": "Esloveno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbf6",
+  "ESPANOL": "Cuba",
+  "ISO2": "CU",
+  "LADA": "53",
+  "Nacionalidad": "Cubano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc76",
+  "ESPANOL": "San Pedro y Miquelon",
+  "ISO2": "PM",
+  "LADA": "508",
+  "Nacionalidad": "Sanpedrino",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dca6",
+  "ESPANOL": "Ucrania",
+  "ISO2": "UA",
+  "LADA": "380",
+  "Nacionalidad": "Ucraniano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbdc",
+  "ESPANOL": "Burundi",
+  "ISO2": "BI",
+  "LADA": "257",
+  "Nacionalidad": "Burundes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbca",
+  "ESPANOL": "Armenia",
+  "ISO2": "AM",
+  "LADA": "374",
+  "Nacionalidad": "Armenio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbd2",
+  "ESPANOL": "Aruba",
+  "ISO2": "AW",
+  "LADA": "297+8",
+  "Nacionalidad": "Arubeno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc41",
+  "ESPANOL": "Libano",
+  "ISO2": "LB",
+  "LADA": "961",
+  "Nacionalidad": "Libanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc51",
+  "ESPANOL": "Islas Marshall",
+  "ISO2": "MH",
+  "LADA": "692",
+  "Nacionalidad": "Marshales",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc88",
+  "ESPANOL": "Singapur",
+  "ISO2": "SG",
+  "LADA": "65",
+  "Nacionalidad": "Singapurense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcaa",
+  "ESPANOL": "Uruguay",
+  "ISO2": "UY",
+  "LADA": "598",
+  "Nacionalidad": "Uruguayo",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc7a",
+  "ESPANOL": "Portugal",
+  "ISO2": "PT",
+  "LADA": "351",
+  "Nacionalidad": "Portugues",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc13",
+  "ESPANOL": "Guernsey",
+  "ISO2": "GG",
+  "LADA": "44",
+  "Nacionalidad": "Guerneseyes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc8d",
+  "ESPANOL": "Sierra Leona",
+  "ISO2": "SL",
+  "LADA": "232",
+  "Nacionalidad": "Sierraleones",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc92",
+  "ESPANOL": "Santo Tome y Principe",
+  "ISO2": "ST",
+  "LADA": "239",
+  "Nacionalidad": "Santotomense",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc31",
+  "ESPANOL": "Jersey",
+  "ISO2": "JE",
+  "LADA": "44",
+  "Nacionalidad": "Jerseyes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbe8",
+  "ESPANOL": "Belice",
+  "ISO2": "BZ",
+  "LADA": "501",
+  "Nacionalidad": "Beliceno",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc1b",
+  "ESPANOL": "Grecia",
+  "ISO2": "GR",
+  "LADA": "30",
+  "Nacionalidad": "Griego",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc9b",
+  "ESPANOL": "Tadjikistan",
+  "ISO2": "TJ",
+  "LADA": "992",
+  "Nacionalidad": "Tayiko",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca0",
+  "ESPANOL": "Tonga",
+  "ISO2": "TO",
+  "LADA": "676",
+  "Nacionalidad": "Tongano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbcb",
+  "ESPANOL": "Antillas Neerlandesas",
+  "ISO2": "AN",
+  "LADA": "599",
+  "Nacionalidad": "Antillano Neerlandes",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbdb",
+  "ESPANOL": "Bahrein",
+  "ISO2": "BH",
+  "LADA": "973",
+  "Nacionalidad": "Bahreini",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc38",
+  "ESPANOL": "Kiribati",
+  "ISO2": "KI",
+  "LADA": "686",
+  "Nacionalidad": "Kiribatiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc74",
+  "ESPANOL": "Pakistan",
+  "ISO2": "PK",
+  "LADA": "92",
+  "Nacionalidad": "Pakistani",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbde",
+  "ESPANOL": "San Bartolome",
+  "ISO2": "BL",
+  "LADA": "590",
+  "Nacionalidad": "Sanbartolomeano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dbff",
+  "ESPANOL": "Republica Dominicana",
+  "ISO2": "DO",
+  "LADA": "1+809",
+  "Nacionalidad": "Dominicano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc6a",
+  "ESPANOL": "Nepal",
+  "ISO2": "NP",
+  "LADA": "977",
+  "Nacionalidad": "Nepales",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dca5",
+  "ESPANOL": "Tanzania",
+  "ISO2": "TZ",
+  "LADA": "255",
+  "Nacionalidad": "Tanzano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcaf",
+  "ESPANOL": "Islas Virgenes Britanicas",
+  "ISO2": "VG",
+  "LADA": "1+284",
+  "Nacionalidad": "Virgenense Britanico",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc0b",
+  "ESPANOL": "Micronesia",
+  "ISO2": "FM",
+  "LADA": "691",
+  "Nacionalidad": "Micronesio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc25",
+  "ESPANOL": "Haiti",
+  "ISO2": "HT",
+  "LADA": "509",
+  "Nacionalidad": "Haitiano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc2b",
+  "ESPANOL": "India",
+  "ISO2": "IN",
+  "LADA": "91",
+  "Nacionalidad": "Indio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc3b",
+  "ESPANOL": "Corea del Norte",
+  "ISO2": "KP",
+  "LADA": "850",
+  "Nacionalidad": "Norcoreano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc64",
+  "ESPANOL": "Niger",
+  "ISO2": "NE",
+  "LADA": "227",
+  "Nacionalidad": "Nigerino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbc4",
+  "ESPANOL": "Andorra",
+  "ISO2": "AD",
+  "LADA": "376",
+  "Nacionalidad": "Andorrano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe0",
+  "ESPANOL": "Brunei",
+  "ISO2": "BN",
+  "LADA": "673",
+  "Nacionalidad": "Bruneano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc32",
+  "ESPANOL": "Jamaica",
+  "ISO2": "JM",
+  "LADA": "1+876",
+  "Nacionalidad": "Jamaicano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc5e",
+  "ESPANOL": "Malawi",
+  "ISO2": "MW",
+  "LADA": "265",
+  "Nacionalidad": "Malaui",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbce",
+  "ESPANOL": "Argentina",
+  "ISO2": "AR",
+  "LADA": "54",
+  "Nacionalidad": "Argentino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbe4",
+  "ESPANOL": "Butan",
+  "ISO2": "BT",
+  "LADA": "975",
+  "Nacionalidad": "Butanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc12",
+  "ESPANOL": "Guayana Francesa",
+  "ISO2": "GF",
+  "LADA": "594",
+  "Nacionalidad": "Guayanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc2f",
+  "ESPANOL": "Islandia",
+  "ISO2": "IS",
+  "LADA": "354",
+  "Nacionalidad": "Islandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcab",
+  "ESPANOL": "Uzbekistan",
+  "ISO2": "UZ",
+  "LADA": "998",
+  "Nacionalidad": "Uzbeko",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dcac",
+  "ESPANOL": "Ciudad del Vaticano",
+  "ISO2": "VA",
+  "LADA": "379",
+  "Nacionalidad": "Vaticano",
+  "Extraterritorial": "1"
+},{
+  "_id": "614291c2e4877a1228c9dc20",
+  "ESPANOL": "Guyana",
+  "ISO2": "GY",
+  "LADA": "592",
+  "Nacionalidad": "Guyanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc82",
+  "ESPANOL": "Ruanda",
+  "ISO2": "RW",
+  "LADA": "40",
+  "Nacionalidad": "Ruandes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc86",
+  "ESPANOL": "Sudan",
+  "ISO2": "SD",
+  "LADA": "249",
+  "Nacionalidad": "Sudanes",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dbc7",
+  "ESPANOL": "Antigua y Barbuda",
+  "ISO2": "AG",
+  "LADA": "1+268",
+  "Nacionalidad": "Antiguano",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc10",
+  "ESPANOL": "Granada",
+  "ISO2": "GD",
+  "LADA": "1+809",
+  "Nacionalidad": "Granadino",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc34",
+  "ESPANOL": "Japon",
+  "ISO2": "JP",
+  "LADA": "81",
+  "Nacionalidad": "Japones",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc53",
+  "ESPANOL": "Mali",
+  "ISO2": "ML",
+  "LADA": "223",
+  "Nacionalidad": "Maliense",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc22",
+  "ESPANOL": "Islas Heard y McDonald",
+  "ISO2": "HM",
+  "LADA": "61",
+  "Extraterritorial": "1",
+  "Nacionalidad": "Australiano"
+},{
+  "_id": "614291c2e4877a1228c9dc4a",
+  "ESPANOL": "Libia",
+  "ISO2": "LY",
+  "LADA": "218",
+  "Nacionalidad": "Libio",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc7d",
+  "ESPANOL": "Qatar",
+  "ISO2": "QA",
+  "LADA": "974",
+  "Nacionalidad": "Catari",
+  "Extraterritorial": "0"
+},{
+  "_id": "614291c2e4877a1228c9dc8c",
+  "ESPANOL": "Eslovaquia",
+  "ISO2": "SK",
+  "LADA": "421",
+  "Nacionalidad": "Eslovaco",
+  "Extraterritorial": "0"
+}]

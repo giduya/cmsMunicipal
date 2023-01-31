@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6181b1c66754f3363cd6177d"
+  },
+  "clave": "MEXICO",
+  "valor": "MEXICO"
+},{
+  "_id": {
+    "$oid": "6181b25a6754f3363cd6177f"
+  },
+  "clave": "SE_DESCONOCE",
+  "valor": "DESCONOCIDO"
+},{
+  "_id": {
+    "$oid": "6181b23c6754f3363cd6177e"
+  },
+  "clave": "EXTRANJERO",
+  "valor": "EXTRANJERO"
+}]

@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "615b1dc738b69a2ad41b851c"
+  },
+  "clave": "MX",
+  "valor": "MEXICO"
+},{
+  "_id": {
+    "$oid": "615b1db238b69a2ad41b851b"
+  },
+  "clave": "EX",
+  "valor": "EXTRANJERO"
+}]

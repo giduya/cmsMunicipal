@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "636b0ed20d2af52e3324a319"
+  },
+  "clave": "Servidor(a) público(a)",
+  "valor": "Servidor(a) público(a) (Realiza funciones de atención ciudadana)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636b0f0e0d2af52e3324a31a"
+  },
+  "clave": "Servidor[a] público[a] eventual",
+  "valor": "Servidor[a] público[a] eventual",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636b0f320d2af52e3324a31b"
+  },
+  "clave": "Integrante",
+  "valor": "Integrante (Labora en algún partido político)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636b0f510d2af52e3324a31d"
+  },
+  "clave": "Empleado",
+  "valor": "Empleado (No sindicalizado, trabajando mas de un periodo de gobierno)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636b0f780d2af52e3324a31f"
+  },
+  "clave": "Representante popular",
+  "valor": "Representante popular (Elegido por elección popular)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636b101f0d2af52e3324a320"
+  },
+  "clave": "Miembro de órgano autónomo",
+  "valor": "Miembro de órganismo autónomo",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636d9ee716e8d8eb33b01d42"
+  },
+  "clave": "Funcionario",
+  "valor": "Funcionario (Puesto designado por ley)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636da0aa16e8d8eb33b01d43"
+  },
+  "clave": "Miembro del poder judicial",
+  "valor": "Miembro del poder judicial",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636da0ca16e8d8eb33b01d44"
+  },
+  "clave": "Personal de confianza",
+  "valor": "Personal de confianza",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636da0e516e8d8eb33b01d45"
+  },
+  "clave": "Prestador de servicios profesionales",
+  "valor": "Prestador de servicios profesionales",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "636da0fe16e8d8eb33b01d46"
+  },
+  "clave": "Otro",
+  "valor": "Otro",
+  "lista": "1"
+}]

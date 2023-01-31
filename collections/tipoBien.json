@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "618871bf7410235d9b860701"
+  },
+  "clave": "MECA",
+  "valor": "MENAJE DE CASA (MUEBLES Y ACCESORIOS DE CASA)"
+},{
+  "_id": {
+    "$oid": "6188722c7410235d9b860706"
+  },
+  "clave": "OBRA",
+  "valor": "OBRAS DE ARTE"
+},{
+  "_id": {
+    "$oid": "618871fe7410235d9b860703"
+  },
+  "clave": "APAE",
+  "valor": "APARATOS ELECTRÓNICOS Y ELECTRODOMÉSTICOS"
+},{
+  "_id": {
+    "$oid": "618872187410235d9b860705"
+  },
+  "clave": "COLEC",
+  "valor": "COLECCIONES"
+},{
+  "_id": {
+    "$oid": "6188720b7410235d9b860704"
+  },
+  "clave": "JOYA",
+  "valor": "JOYAS"
+},{
+  "_id": {
+    "$oid": "6188723b7410235d9b860707"
+  },
+  "clave": "OTRO",
+  "valor": "OTROS (ESPECIFIQUE)"
+}]

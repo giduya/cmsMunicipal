@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "618849347410235d9b86067c"
+  },
+  "clave": "DC",
+  "lista": "0",
+  "valor": "DECLARANTE"
+},{
+  "_id": {
+    "$oid": "61885c257410235d9b860680"
+  },
+  "clave": "HIJ",
+  "lista": "0",
+  "valor": "HIJO(A)"
+},{
+  "_id": {
+    "$oid": "61885ccb7410235d9b860681"
+  },
+  "clave": "HER",
+  "lista": "0",
+  "valor": "HERMANO(A)"
+},{
+  "_id": {
+    "$oid": "61885d817410235d9b860684"
+  },
+  "clave": "PA",
+  "lista": "0",
+  "valor": "PADRE"
+},{
+  "_id": {
+    "$oid": "61885da57410235d9b860686"
+  },
+  "clave": "PRI",
+  "lista": "0",
+  "valor": "PRIMO(A)"
+},{
+  "_id": {
+    "$oid": "61885bd67410235d9b86067e"
+  },
+  "clave": "CON",
+  "lista": "0",
+  "valor": "CONCUBINA O CONCUBINARIO"
+},{
+  "_id": {
+    "$oid": "61885df47410235d9b860689"
+  },
+  "clave": "NUE",
+  "lista": "0",
+  "valor": "NUERA"
+},{
+  "_id": {
+    "$oid": "61885e0d7410235d9b86068a"
+  },
+  "clave": "YER",
+  "lista": "0",
+  "valor": "YERNO"
+},{
+  "_id": {
+    "$oid": "61885e4a7410235d9b86068c"
+  },
+  "clave": "NIE",
+  "lista": "0",
+  "valor": "NIETO(A)"
+},{
+  "_id": {
+    "$oid": "618849937410235d9b86067d"
+  },
+  "clave": "CY",
+  "lista": "0",
+  "valor": "CÓNYUGE"
+},{
+  "_id": {
+    "$oid": "61885bfc7410235d9b86067f"
+  },
+  "clave": "CONV",
+  "lista": "0",
+  "valor": "CONVIVIENTE"
+},{
+  "_id": {
+    "$oid": "61885ceb7410235d9b860682"
+  },
+  "clave": "CU",
+  "lista": "0",
+  "valor": "CUÑADO(A)"
+},{
+  "_id": {
+    "$oid": "61885d6d7410235d9b860683"
+  },
+  "clave": "MA",
+  "lista": "0",
+  "valor": "MADRE"
+},{
+  "_id": {
+    "$oid": "61885d8f7410235d9b860685"
+  },
+  "clave": "TIO",
+  "lista": "0",
+  "valor": "TÍO(A)"
+},{
+  "_id": {
+    "$oid": "61885dbc7410235d9b860687"
+  },
+  "clave": "SOB",
+  "lista": "0",
+  "valor": "SOBRINO(A)"
+},{
+  "_id": {
+    "$oid": "61885e607410235d9b86068d"
+  },
+  "clave": "OTRO",
+  "lista": "1",
+  "valor": "OTRO(A)"
+},{
+  "_id": {
+    "$oid": "61885dde7410235d9b860688"
+  },
+  "clave": "AHI",
+  "lista": "0",
+  "valor": "AHIJADO(A)"
+},{
+  "_id": {
+    "$oid": "61885e227410235d9b86068b"
+  },
+  "clave": "ABU",
+  "lista": "0",
+  "valor": "ABUELO(A)"
+}]

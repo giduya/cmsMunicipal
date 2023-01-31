@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "61b3b75fb9711ad55830a579"
+  },
+  "clave": "DIV",
+  "valor": "DIVORCIADO (A)"
+},{
+  "_id": {
+    "$oid": "61b3b781b9711ad55830a57b"
+  },
+  "clave": "CON",
+  "valor": "CONCUBINA/CONCUBINARIO/UNIÓN LIBRE"
+},{
+  "_id": {
+    "$oid": "61b3b70bb9711ad55830a56d"
+  },
+  "clave": "SOL",
+  "valor": "SOLTERO (A)"
+},{
+  "_id": {
+    "$oid": "61b3b772b9711ad55830a57a"
+  },
+  "clave": "VIU",
+  "valor": "VIUDO (A)"
+},{
+  "_id": {
+    "$oid": "61b3b79fb9711ad55830a57c"
+  },
+  "clave": "SCO",
+  "valor": "SOCIEDAD DE CONVIVENCIA"
+},{
+  "_id": {
+    "$oid": "61b3b74ab9711ad55830a578"
+  },
+  "clave": "CAS",
+  "valor": "CASADO (A)"
+}]

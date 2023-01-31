@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "616f891cfe1d437eee77a02c"
+  },
+  "clave": "DECLARANTE",
+  "valor": "DECLARANTE"
+},{
+  "_id": {
+    "$oid": "616f8a08fe1d437eee77a030"
+  },
+  "clave": "DEPENDIENTE_ECONOMICO",
+  "valor": "DEPENDIENTE ECONOMICO"
+},{
+  "_id": {
+    "$oid": "616f89eefe1d437eee77a02f"
+  },
+  "clave": "PAREJA",
+  "valor": "PAREJA"
+}]

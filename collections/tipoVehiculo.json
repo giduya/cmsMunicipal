@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "61886c9b7410235d9b8606c4"
+  },
+  "clave": "AUMOT",
+  "valor": "AUTOMÓVIL/MOTOCICLETA",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886cc17410235d9b8606c5"
+  },
+  "clave": "AERN",
+  "valor": "AERONAVE",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886ce97410235d9b8606c7"
+  },
+  "clave": "OTRO",
+  "valor": "OTROS (ESPECIFIQUE)",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "61886cda7410235d9b8606c6"
+  },
+  "clave": "BARYA",
+  "valor": "BARCO/YATE",
+  "lista": 0
+}]

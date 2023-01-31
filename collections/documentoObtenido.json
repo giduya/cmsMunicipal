@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "615b205a38b69a2ad41b8528"
+  },
+  "clave": "BOLETA",
+  "valor": "BOLETA",
+  "lista": "1"
+},{
+  "_id": {
+    "$oid": "615b20b338b69a2ad41b8529"
+  },
+  "clave": "CERTIFICADO",
+  "valor": "CERTIFICADO",
+  "lista": "3"
+},{
+  "_id": {
+    "$oid": "615b20f138b69a2ad41b852b"
+  },
+  "clave": "TITULO",
+  "valor": "TÍTULO",
+  "lista": "4"
+},{
+  "_id": {
+    "$oid": "615b20d338b69a2ad41b852a"
+  },
+  "clave": "CONSTANCIA",
+  "valor": "CONSTANCIA",
+  "lista": "2"
+}]

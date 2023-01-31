@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6142a156e4877a1228c9dcd4"
+  },
+  "clave": "OTR",
+  "valor": "OTRO",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "6142a156e4877a1228c9dcd6"
+  },
+  "clave": "SOC",
+  "valor": "SOCIEDAD CONYUGAL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6142a156e4877a1228c9dcd5"
+  },
+  "clave": "SBI",
+  "valor": "SEPARACION DE BIENES",
+  "lista": 0
+}]

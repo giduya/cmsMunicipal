@@ -1,0 +1,297 @@
+{
+    "pagination": {
+        "pageSize": 10,
+        "page": 1,
+        "totalRows": 1,
+        "hasNextPage": false
+    },
+    "results": [
+        {
+            "_id": "6343a7cff97a0000b5000e58",
+            "id": "6343a7cff97a0000b5000e58",
+            "usuario": "hector@edulap.com",
+            "metadata": {
+                "actualizacion": {
+                    "$date": {
+                        "$numberLong": "1665378254960"
+                    }
+                },
+                "institucion": "Instituto Simulado",
+                "tipo": "CONCLUSIÓN",
+                "declaracionCompleta": false,
+                "actualizacionConflictoInteres": false,
+                "avance": {
+                    "situacionPatrimonial": {
+                        "datosGenerales": true,
+                        "domicilioDeclarante": true,
+                        "datosCurricularesDeclarante": true,
+                        "datosEmpleoCargoComision": true,
+                        "experienciaLaboral": true,
+                        "datosPareja": true,
+                        "datosDependientesEconomicos": true,
+                        "ingresos": true,
+                        "actividadAnualAnterior": true,
+                        "bienesInmuebles": false,
+                        "vehiculos": false,
+                        "bienesMuebles": false,
+                        "inversionesCuentasValores": false,
+                        "adeudosPasivos": false,
+                        "prestamoComodato": false
+                    },
+                    "interes": {
+                        "participacion": false,
+                        "participacionTomaDecisiones": false,
+                        "apoyos": false,
+                        "representaciones": false,
+                        "clientesPrincipales": false,
+                        "beneficiosPrivados": false,
+                        "fideicomisos": false
+                    }
+                }
+            },
+            "declaracion": {
+                "situacionPatrimonial": {
+                    "datosGenerales": {
+                        "nombre": "CONCLUSION",
+                        "primerApellido": "PRIMER",
+                        "segundoApellido": "Segundo",
+                        "curp": "kkkkkkkkkkkkkkkkkk",
+                        "rfc": {
+                            "rfc": "jjjjjjjjjj",
+                            "homoClave": "kkk"
+                        },
+                        "correoElectronico": {
+                            "institucional": "",
+                            "personal": ""
+                        },
+                        "telefono": {
+                            "ladaCasa": "",
+                            "casa": "",
+                            "ladaCelular": "52",
+                            "celularPersonal": "9999999999"
+                        },
+                        "situacionPersonalEstadoCivil": {
+                            "clave": "SOL",
+                            "valor": "SOLTERO (A)"
+                        },
+                        "paisNacimiento": "MX",
+                        "nacionalidad": "MX",
+                        "aclaracionesObservaciones": ""
+                    },
+                    "domicilioDeclarante": {
+                        "domicilioMexico": {
+                            "calle": "Calle",
+                            "numeroExterior": "exter",
+                            "numeroInterior": "inte",
+                            "coloniaLocalidad": "El Destacamento",
+                            "municipioAlcaldia": {
+                                "clave": "014",
+                                "valor": "Atoyac"
+                            },
+                            "entidadFederativa": {
+                                "clave": "14",
+                                "valor": "Jalisco"
+                            },
+                            "codigoPostal": "49223"
+                        },
+                        "aclaracionesObservaciones": ""
+                    },
+                    "datosCurricularesDeclarante": {
+                        "escolaridad": [
+                            {
+                                "tipoOperacion": "AGREGAR",
+                                "nivel": {
+                                    "clave": "PRI",
+                                    "valor": "PRIMARIA"
+                                },
+                                "institucionEducativa": {
+                                    "nombre": "Institución",
+                                    "ubicacion": "MX"
+                                },
+                                "carreraAreaConocimiento": "EDUCACIÓN BÁSICA",
+                                "estatus": "TRUNCO",
+                                "documentoObtenido": "CONSTANCIA",
+                                "fechaObtencion": "2022-10-03"
+                            }
+                        ],
+                        "aclaracionesObservaciones": "",
+                        "ninguno": false
+                    },
+                    "datosEmpleoCargoComision": {
+                        "tipoOperacion": "AGREGAR",
+                        "nivelOrdenGobierno": "ESTATAL",
+                        "ambitoPublico": "LEGISLATIVO",
+                        "nombreEntePublico": "Nombre",
+                        "areaAdscripcion": "Área",
+                        "empleoCargoComision": "Empleo",
+                        "contratadoPorHonorarios": true,
+                        "nivelEmpleoCargoComision": "Nivel",
+                        "funcionPrincipal": "función",
+                        "fechaTomaPosesion": "2022-09-27",
+                        "telefonoOficina": {
+                            "lada": "973",
+                            "telefono": "9999999999",
+                            "extension": ""
+                        },
+                        "domicilioExtranjero": {
+                            "calle": "Calle",
+                            "numeroExterior": "exter",
+                            "numeroInterior": "inte",
+                            "ciudadLocalidad": "Ciudad",
+                            "estadoProvincia": "Estado",
+                            "pais": "BS",
+                            "codigoPostal": "postal"
+                        },
+                        "aclaracionesObservaciones": "",
+                        "cuentaConOtroCargoPublico": false,
+                        "otroEmpleoCargoComision": []
+                    },
+                    "experienciaLaboral": {
+                        "ninguno": true,
+                        "experiencia": [],
+                        "aclaracionesObservaciones": "experienciaLaboral"
+                    },
+                    "datosPareja": {
+                        "ninguno": true,
+                        "aclaracionesObservaciones": ""
+                    },
+                    "datosDependientesEconomicos": {
+                        "ninguno": true,
+                        "dependienteEconomico": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "ingresos": {
+                        "remuneracionConclusionCargoPublico": {
+                            "valor": 9999,
+                            "moneda": "MXN"
+                        },
+                        "otrosIngresosConclusionTotal": {
+                            "valor": 0,
+                            "moneda": "MXN"
+                        },
+                        "actividadIndustrialComercialEmpresarial": {
+                            "remuneracionTotal": {
+                                "valor": 0,
+                                "moneda": "MXN"
+                            },
+                            "actividades": []
+                        },
+                        "actividadFinanciera": {
+                            "remuneracionTotal": {
+                                "valor": 0,
+                                "moneda": "MXN"
+                            },
+                            "actividades": []
+                        },
+                        "serviciosProfesionales": {
+                            "remuneracionTotal": {
+                                "valor": 0,
+                                "moneda": "MXN"
+                            },
+                            "servicios": []
+                        },
+                        "enajenacionBienes": {
+                            "remuneracionTotal": {
+                                "valor": 0,
+                                "moneda": "MXN"
+                            },
+                            "bienes": []
+                        },
+                        "otrosIngresos": {
+                            "remuneracionTotal": {
+                                "valor": 0,
+                                "moneda": "MXN"
+                            },
+                            "ingresos": []
+                        },
+                        "ingresoConclusionNetoDeclarante": {
+                            "valor": 9999,
+                            "moneda": "MXN"
+                        },
+                        "ingresoConclusionNetoParejaDependiente": {
+                            "valor": 8888,
+                            "moneda": "MXN"
+                        },
+                        "totalIngresosConclusionNetos": {
+                            "valor": 18887,
+                            "moneda": "MXN"
+                        },
+                        "aclaracionesObservaciones": ""
+                    },
+                    "actividadAnualAnterior": {
+                        "servidorPublicoAnioAnterior": true,
+                        "aclaracionesObservaciones": ""
+                    },
+                    "bienesInmuebles": {
+                        "ninguno": false,
+                        "bienInmueble": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "vehiculos": {
+                        "ninguno": false,
+                        "vehiculo": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "bienesMuebles": {
+                        "ninguno": false,
+                        "bienMueble": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "inversionesCuentasValores": {
+                        "ninguno": false,
+                        "inversion": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "adeudosPasivos": {
+                        "ninguno": false,
+                        "adeudo": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "prestamoComodato": {
+                        "ninguno": false,
+                        "prestamo": [],
+                        "aclaracionesObservaciones": ""
+                    }
+                },
+                "interes": {
+                    "participacion": {
+                        "ninguno": false,
+                        "participacion": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "participacionTomaDecisiones": {
+                        "ninguno": false,
+                        "participacion": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "apoyos": {
+                        "ninguno": false,
+                        "apoyo": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "representaciones": {
+                        "ninguno": false,
+                        "representacion": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "clientesPrincipales": {
+                        "ninguno": false,
+                        "cliente": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "beneficiosPrivados": {
+                        "ninguno": false,
+                        "beneficio": [],
+                        "aclaracionesObservaciones": ""
+                    },
+                    "fideicomisos": {
+                        "ninguno": false,
+                        "fideicomiso": [],
+                        "aclaracionesObservaciones": ""
+                    }
+                }
+            },
+            "updated_at": "2022-10-10T05:53:50.024000Z"
+        }
+    ]
+}

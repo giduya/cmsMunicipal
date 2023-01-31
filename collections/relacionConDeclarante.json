@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6181b06f6754f3363cd6175d"
+  },
+  "clave": "CONCUBINA_CONCUBINARIO_UNION_LIBRE",
+  "valor": "UNIÓN LIBRE"
+},{
+  "_id": {
+    "$oid": "6181b0c46754f3363cd6175e"
+  },
+  "clave": "SOCIEDAD_DE_CONVIVENCIA",
+  "valor": "CONVIVENCIA"
+},{
+  "_id": {
+    "$oid": "6181afc76754f3363cd61756"
+  },
+  "clave": "CONYUGE",
+  "valor": "CÓNYUGE"
+}]

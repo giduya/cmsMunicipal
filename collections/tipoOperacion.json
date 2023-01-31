@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "618864f77410235d9b860697"
+  },
+  "clave": "AGREGAR",
+  "valor": "AGREGAR"
+},{
+  "_id": {
+    "$oid": "6188652a7410235d9b860699"
+  },
+  "clave": "SIN_CAMBIOS",
+  "valor": "SIN_CAMBIOS"
+},{
+  "_id": {
+    "$oid": "6188653a7410235d9b86069a"
+  },
+  "clave": "BAJA",
+  "valor": "BAJA"
+},{
+  "_id": {
+    "$oid": "6188651d7410235d9b860698"
+  },
+  "clave": "MODIFICAR",
+  "valor": "MODIFICAR"
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6189d15f7410235d9b8607a3"
+  },
+  "clave": "SSI",
+  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6189d1a27410235d9b8607a6"
+  },
+  "clave": "OTRO",
+  "valor": "OTRO(ESPECIFIQUE)",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "6189d13f7410235d9b8607a1"
+  },
+  "clave": "FIN",
+  "valor": "FONDOS DE INVERSIÓN",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6189d1237410235d9b8607a0"
+  },
+  "clave": "CAP",
+  "valor": "CAPITAL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6189d16c7410235d9b8607a4"
+  },
+  "clave": "VBU",
+  "valor": "VALORES BURSÁTILES",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6189d1777410235d9b8607a5"
+  },
+  "clave": "BON",
+  "valor": "BONOS",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6189d14d7410235d9b8607a2"
+  },
+  "clave": "OPR",
+  "valor": "ORGANIZACIONES PRIVADA",
+  "lista": 0
+}]

@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "618848cd7410235d9b860678"
+  },
+  "clave": "D",
+  "lista": "0",
+  "valor": "DONACIÓN"
+},{
+  "_id": {
+    "$oid": "618848617410235d9b860676"
+  },
+  "clave": "S",
+  "lista": "0",
+  "valor": "SORTEO"
+},{
+  "_id": {
+    "$oid": "618848b77410235d9b860677"
+  },
+  "clave": "C",
+  "lista": "0",
+  "valor": "CONCURSO"
+},{
+  "_id": {
+    "$oid": "618848e77410235d9b860679"
+  },
+  "clave": "O",
+  "lista": "1",
+  "valor": "OTRO (ESPECIFICO)"
+}]

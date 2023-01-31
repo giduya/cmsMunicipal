@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "61886f8f7410235d9b8606e6"
+  },
+  "clave": "CAHO",
+  "valor": "CUENTA DE AHORRO",
+  "tipo": "BANC"
+},{
+  "_id": {
+    "$oid": "61886f657410235d9b8606e5"
+  },
+  "clave": "CNOM",
+  "valor": "CUENTA DE NÓMINA",
+  "tipo": "BANC"
+},{
+  "_id": {
+    "$oid": "6188706b7410235d9b8606f3"
+  },
+  "clave": "CRIP",
+  "valor": "CRIPTOMONEDAS",
+  "tipo": "POMM"
+},{
+  "_id": {
+    "$oid": "618870d97410235d9b8606f9"
+  },
+  "clave": "BGUB",
+  "valor": "BONOS GUBERNAMENTALES",
+  "tipo": "VBUR"
+},{
+  "_id": {
+    "$oid": "61886fb67410235d9b8606e8"
+  },
+  "clave": "CMAS",
+  "valor": "CUENTA MAESTRA",
+  "tipo": "BANC"
+},{
+  "_id": {
+    "$oid": "61886fe77410235d9b8606eb"
+  },
+  "clave": "SOIN",
+  "valor": "SOCIEDADES DE INVERSIÓN",
+  "tipo": "FINV"
+},{
+  "_id": {
+    "$oid": "61886ff77410235d9b8606ec"
+  },
+  "clave": "IFEX",
+  "valor": "INVERSIONES FINANCIERAS EN EL EXTRANJERO",
+  "tipo": "FINV"
+},{
+  "_id": {
+    "$oid": "618870177410235d9b8606ee"
+  },
+  "clave": "CSAH",
+  "valor": "CAJAS DE AHORRO",
+  "tipo": "ORPM"
+},{
+  "_id": {
+    "$oid": "618870487410235d9b8606f1"
+  },
+  "clave": "MONN",
+  "valor": "MONEDA NACIONAL",
+  "tipo": "POMM"
+},{
+  "_id": {
+    "$oid": "6188705a7410235d9b8606f2"
+  },
+  "clave": "ONZT",
+  "valor": "ONZAS TROY",
+  "tipo": "POMM"
+},{
+  "_id": {
+    "$oid": "6188708e7410235d9b8606f5"
+  },
+  "clave": "SEGI",
+  "valor": "SEGURO DE INVERSIÓN",
+  "tipo": "SEGR"
+},{
+  "_id": {
+    "$oid": "618870fd7410235d9b8606fb"
+  },
+  "clave": "AFOR",
+  "valor": "AFORES",
+  "tipo": "AFOT"
+},{
+  "_id": {
+    "$oid": "61886f9d7410235d9b8606e7"
+  },
+  "clave": "CCHE",
+  "valor": "CUENTA DE CHEQUES",
+  "tipo": "BANC"
+},{
+  "_id": {
+    "$oid": "618870087410235d9b8606ed"
+  },
+  "clave": "ACCI",
+  "valor": "ACCIONES",
+  "tipo": "ORPM"
+},{
+  "_id": {
+    "$oid": "6188707c7410235d9b8606f4"
+  },
+  "clave": "SSIN",
+  "valor": "SEGURO DE SEPARACIÓN INDIVIDUALIZADO",
+  "tipo": "SEGR"
+},{
+  "_id": {
+    "$oid": "6188709f7410235d9b8606f6"
+  },
+  "clave": "SEGV",
+  "valor": "SEGURO DE VIDA",
+  "tipo": "SEGR"
+},{
+  "_id": {
+    "$oid": "618870c47410235d9b8606f8"
+  },
+  "clave": "ABAN",
+  "valor": "ACEPTACIONES BANCARIAS",
+  "tipo": "VBUR"
+},{
+  "_id": {
+    "$oid": "618871107410235d9b8606fc"
+  },
+  "clave": "FIDE",
+  "valor": "FIDEICOMISOS",
+  "tipo": "AFOT"
+},{
+  "_id": {
+    "$oid": "618871317410235d9b8606fe"
+  },
+  "clave": "PFTE",
+  "valor": "PRÉSTAMOS A FAVOR DE UN TERCERO",
+  "tipo": "AFOT"
+},{
+  "_id": {
+    "$oid": "61886fc67410235d9b8606e9"
+  },
+  "clave": "CEJE",
+  "valor": "CUENTA EJE",
+  "tipo": "BANC"
+},{
+  "_id": {
+    "$oid": "61886fd57410235d9b8606ea"
+  },
+  "clave": "DPLA",
+  "valor": "DEPÓSITO A PLAZOS",
+  "tipo": "BANC"
+},{
+  "_id": {
+    "$oid": "6188702a7410235d9b8606ef"
+  },
+  "clave": "CENT",
+  "valor": "CENTENARIOS",
+  "tipo": "POMM"
+},{
+  "_id": {
+    "$oid": "618870387410235d9b8606f0"
+  },
+  "clave": "DIVS",
+  "valor": "DIVISAS",
+  "tipo": "POMM"
+},{
+  "_id": {
+    "$oid": "618870ad7410235d9b8606f7"
+  },
+  "clave": "ADER",
+  "valor": "ACCIONES Y DERIVADOS",
+  "tipo": "VBUR"
+},{
+  "_id": {
+    "$oid": "618870ee7410235d9b8606fa"
+  },
+  "clave": "PCOM",
+  "valor": "PAPEL COMERCIAL",
+  "tipo": "VBUR"
+},{
+  "_id": {
+    "$oid": "618871207410235d9b8606fd"
+  },
+  "clave": "CTES",
+  "valor": "CERTIFICADOS DE LA TESORERÍA",
+  "tipo": "AFOT"
+}]

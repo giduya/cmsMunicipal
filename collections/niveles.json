@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "615b0ecfd64ce834e1b2260f"
+  },
+  "clave": "BCH",
+  "valor": "BACHILLERATO",
+  "lista": 3
+},{
+  "_id": {
+    "$oid": "615b0ebcd64ce834e1b2260e"
+  },
+  "clave": "SEC",
+  "valor": "SECUNDARIA",
+  "lista": 2
+},{
+  "_id": {
+    "$oid": "615b0f6dd64ce834e1b22614"
+  },
+  "clave": "DOC",
+  "valor": "DOCTORADO",
+  "lista": 8
+},{
+  "_id": {
+    "$oid": "615b0e7ad64ce834e1b2260c"
+  },
+  "clave": "PRI",
+  "valor": "PRIMARIA",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "615b0ee5d64ce834e1b22610"
+  },
+  "clave": "CTC",
+  "valor": "CARRERA TÉCNICA O COMERCIAL",
+  "lista": 4
+},{
+  "_id": {
+    "$oid": "615b0f30d64ce834e1b22612"
+  },
+  "clave": "ESP",
+  "valor": "ESPECIALIDAD",
+  "lista": 6
+},{
+  "_id": {
+    "$oid": "615b0f51d64ce834e1b22613"
+  },
+  "clave": "MAE",
+  "valor": "MAESTRÍA",
+  "lista": 7
+},{
+  "_id": {
+    "$oid": "615b0f05d64ce834e1b22611"
+  },
+  "clave": "LIC",
+  "valor": "LICENCIATURA",
+  "lista": 5
+}]

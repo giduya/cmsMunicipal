@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "617326d8fe1d437eee77a079"
+  },
+  "clave": "EJECUTIVO",
+  "valor": "EJECUTIVO"
+},{
+  "_id": {
+    "$oid": "61841dfe6754f3363cd617d6"
+  },
+  "clave": "ORGANO_AUTONOMO",
+  "valor": "ORGANO AUTONOMO"
+},{
+  "_id": {
+    "$oid": "61732704fe1d437eee77a07a"
+  },
+  "clave": "JUDICIAL",
+  "valor": "JUDICIAL"
+},{
+  "_id": {
+    "$oid": "61732711fe1d437eee77a07b"
+  },
+  "clave": "LEGISLATIVO",
+  "valor": "LEGISLATIVO"
+}]

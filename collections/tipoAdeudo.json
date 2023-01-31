@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "61886dd77410235d9b8606d2"
+  },
+  "clave": "CHIP",
+  "valor": "CRÉDITO HIPOTECARIO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886e297410235d9b8606d6"
+  },
+  "clave": "TCRD",
+  "valor": "TARJETA DE CRÉDITO DEPARTAMENTAL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886e3b7410235d9b8606d7"
+  },
+  "clave": "PRPE",
+  "valor": "PRÉSTAMO PERSONAL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886df87410235d9b8606d3"
+  },
+  "clave": "CAUT",
+  "valor": "CRÉDITO AUTOMOTRIZ",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886e087410235d9b8606d4"
+  },
+  "clave": "CPER",
+  "valor": "CRÉDITO PERSONAL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886e167410235d9b8606d5"
+  },
+  "clave": "TCRN",
+  "valor": "TARJETA DE CRÉDITO BANCARIA",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886e507410235d9b8606d8"
+  },
+  "clave": "OTRO",
+  "valor": "OTROS (ESPECIFIQUE)",
+  "lista": 1
+}]

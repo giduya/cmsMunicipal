@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6188765e7410235d9b86073a"
+  },
+  "clave": "DNC",
+  "valor": "DONACIÓN"
+},{
+  "_id": {
+    "$oid": "6188763f7410235d9b860739"
+  },
+  "clave": "VNT",
+  "valor": "VENTA"
+},{
+  "_id": {
+    "$oid": "6188766b7410235d9b86073b"
+  },
+  "clave": "SNT",
+  "valor": "SINIESTRO"
+},{
+  "_id": {
+    "$oid": "618876787410235d9b86073c"
+  },
+  "clave": "OTRO",
+  "valor": "OTRO(ESPECIFIQUE)"
+}]

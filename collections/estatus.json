@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "615b1ebb38b69a2ad41b8521"
+  },
+  "clave": "TRUNCO",
+  "valor": "TRUNCO",
+  "lista": 2
+},{
+  "_id": {
+    "$oid": "615b1e5d38b69a2ad41b851f"
+  },
+  "clave": "CURSANDO",
+  "valor": "CURSANDO",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "615b1ea738b69a2ad41b8520"
+  },
+  "clave": "FINALIZADO",
+  "valor": "FINALIZADO",
+  "lista": 3
+}]

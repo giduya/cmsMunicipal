@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "618843727410235d9b860666"
+  },
+  "clave": "FIDEICOMITENTE",
+  "valor": "FIDEICOMITENTE"
+},{
+  "_id": {
+    "$oid": "6188441a7410235d9b860669"
+  },
+  "clave": "COMITE_TECNICO",
+  "valor": "COMITE_TECNICO"
+},{
+  "_id": {
+    "$oid": "618843af7410235d9b860667"
+  },
+  "clave": "FIDUCIARIO",
+  "valor": "FIDUCIARIO"
+},{
+  "_id": {
+    "$oid": "618843e57410235d9b860668"
+  },
+  "clave": "FIDEICOMISARIO",
+  "valor": "FIDEICOMISARIO"
+}]

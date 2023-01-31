@@ -1,0 +1,1732 @@
+[{
+  "_id": {
+    "$oid": "631527ddba0706641e94c28a"
+  },
+  "subdominio": "ciudadhidalgo",
+  "municipio": "CIUDAD HIDALGO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034138218"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CIUDAD HIDALGO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153ff9ba0706641e94c2c2"
+  },
+  "subdominio": "zinapecuaro",
+  "municipio": "ZINAPÉCUARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034141147"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ZINAPÉCUARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152786ba0706641e94c288"
+  },
+  "subdominio": "churintzio",
+  "municipio": "CHURINTZIO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034141844"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHURINTZIO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631527ffba0706641e94c28b"
+  },
+  "subdominio": "coahuayana",
+  "municipio": "COAHUAYANA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034142218"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "COAHUAYANA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152cb0ba0706641e94c2a4"
+  },
+  "subdominio": "hueyotlipan",
+  "municipio": "HUEYOTLIPAN",
+  "estado": "29",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034142615"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "HUEYOTLIPAN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315275eba0706641e94c287"
+  },
+  "subdominio": "chucandiro",
+  "municipio": "CHUCÁNDIRO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034143385"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHUCÁNDIRO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152a17ba0706641e94c296"
+  },
+  "subdominio": "cuitzeo",
+  "municipio": "CUITZEO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034143594"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CUITZEO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152b4eba0706641e94c29d"
+  },
+  "subdominio": "gabrielzamora",
+  "municipio": "GABRIEL ZAMORA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034144203"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "GABRIEL ZAMORA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315fea6c07ed27b2acbe5a3"
+  },
+  "subdominio": "vistahermosa",
+  "municipio": "VISTA HERMOSA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034144989"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "VISTA HERMOSA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631600d1c07ed27b2acbe5a9"
+  },
+  "subdominio": "tuxpan",
+  "municipio": "TUXPAN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034145921"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TUXPAN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63160135c07ed27b2acbe5ad"
+  },
+  "subdominio": "tlazazalca",
+  "municipio": "TLAZAZALCA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034146655"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TLAZAZALCA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316055bc07ed27b2acbe5b4"
+  },
+  "subdominio": "tiquicheo",
+  "municipio": "TIQUICHEO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034147378"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TIQUICHEO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631633dac07ed27b2acbe5bd"
+  },
+  "subdominio": "ocampo",
+  "municipio": "OCAMPO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034148842"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "OCAMPO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631637aac07ed27b2acbe5c6"
+  },
+  "subdominio": "paracuaro",
+  "municipio": "PARÁCUARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034149525"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PARÁCUARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316409bc07ed27b2acbe5d3"
+  },
+  "subdominio": "tacambaro",
+  "municipio": "TACÁMBARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034151152"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TACÁMBARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631640acc07ed27b2acbe5d4"
+  },
+  "subdominio": "tangamandapio",
+  "municipio": "TANGAMANDAPIO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034151316"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TANGAMANDAPIO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631640c4c07ed27b2acbe5d5"
+  },
+  "subdominio": "tanhuato",
+  "municipio": "TANHUATO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034151501"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TANHUATO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631640ddc07ed27b2acbe5d6"
+  },
+  "subdominio": "taretan",
+  "municipio": "TARETAN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034151651"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TARETAN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631528bcba0706641e94c28e"
+  },
+  "subdominio": "coeneo",
+  "municipio": "COENEO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034136439"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "COENEO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631539d1ba0706641e94c2ad"
+  },
+  "subdominio": "jiquilpan",
+  "municipio": "JIQUILPAN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034136586"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "JIQUILPAN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152be1ba0706641e94c2a0"
+  },
+  "subdominio": "huaniqueo",
+  "municipio": "HUANIQUEO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034137006"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "HUANIQUEO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631525e8ba0706641e94c284"
+  },
+  "subdominio": "chilchota",
+  "municipio": "CHILCHOTA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034137538"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHILCHOTA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153b4bba0706641e94c2b7"
+  },
+  "subdominio": "madero",
+  "municipio": "MADERO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034138481"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "MADERO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153a62ba0706641e94c2b2"
+  },
+  "subdominio": "juarez",
+  "municipio": "JÚAREZ",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034138656"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "JÚAREZ",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63151efeba0706641e94c273"
+  },
+  "subdominio": "amacuzac",
+  "municipio": "AMACUZAC",
+  "estado": "17",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034139008"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "AMACUZAC",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631528d4ba0706641e94c28f"
+  },
+  "subdominio": "cojumatlan",
+  "municipio": "COJUMATLÁN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034140240"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "COJUMATLÁN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153fd8ba0706641e94c2c1"
+  },
+  "subdominio": "zitacuaro",
+  "municipio": "ZITÁCUARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034140393"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ZITÁCUARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631525bdba0706641e94c283"
+  },
+  "subdominio": "cheran",
+  "municipio": "CHERÁN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034141554"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHERÁN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153abbba0706641e94c2b5"
+  },
+  "subdominio": "lapiedad",
+  "municipio": "LA PIEDAD",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034142935"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "LA PIEDAD",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315252dba0706641e94c280"
+  },
+  "subdominio": "charapan",
+  "municipio": "CHARAPAN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034143231"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHARAPAN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153a81ba0706641e94c2b3"
+  },
+  "subdominio": "lagunillas",
+  "municipio": "LAGUNILLAS",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034143753"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "LAGUNILLAS",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315fecdc07ed27b2acbe5a4"
+  },
+  "subdominio": "villamar",
+  "municipio": "VILLAMAR",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034145149"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "VILLAMAR",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315ff5ec07ed27b2acbe5a7"
+  },
+  "subdominio": "tzintzuntzan",
+  "municipio": "TZINTZUNTZAN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034145510"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TZINTZUNTZAN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315ff81c07ed27b2acbe5a8"
+  },
+  "subdominio": "tuzantla",
+  "municipio": "TUZANTLA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034145756"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TUZANTLA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63160107c07ed27b2acbe5ab"
+  },
+  "subdominio": "tumbiscatio",
+  "municipio": "TUMBISCATÍO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034146244"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TUMBISCATÍO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63160500c07ed27b2acbe5b1"
+  },
+  "subdominio": "tlalpujahua",
+  "municipio": "TLALPUJAHUA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034146850"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TLALPUJAHUA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316335fc07ed27b2acbe5ba"
+  },
+  "subdominio": "nuevoparangaricutiro",
+  "municipio": "NUEVO PARANGARICUTIRO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034148233"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "NUEVO PARANGARICUTIRO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631633c7c07ed27b2acbe5bc"
+  },
+  "subdominio": "numaran",
+  "municipio": "NUMARÁN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034148596"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "NUMARÁN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316381ac07ed27b2acbe5ca"
+  },
+  "subdominio": "querendaro",
+  "municipio": "QUERÉNDARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666039511320"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "QUERÉNDARO",
+  "password": "declarapat",
+  "periodo": "2021-2024",
+  "instituto": "QUERÉNDARO"
+},{
+  "_id": {
+    "$oid": "63164074c07ed27b2acbe5d2"
+  },
+  "subdominio": "susupuato",
+  "municipio": "SUSUPUATO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034150976"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "SUSUPUATO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315216cba0706641e94c278"
+  },
+  "subdominio": "aporo",
+  "municipio": "ÁPORO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034135868"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ÁPORO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152bb1ba0706641e94c29f"
+  },
+  "subdominio": "huandacareo",
+  "municipio": "HUANDACAREO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034136031"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "HUANDACAREO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152560ba0706641e94c281"
+  },
+  "subdominio": "chavinda",
+  "municipio": "CHAVINDA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034136205"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHAVINDA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152693ba0706641e94c286"
+  },
+  "subdominio": "chinicuila",
+  "municipio": "CHINICUILA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034136749"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHINICUILA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152972ba0706641e94c293"
+  },
+  "subdominio": "cotija",
+  "municipio": "COTIJA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034137835"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "COTIJA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315250aba0706641e94c27f"
+  },
+  "subdominio": "caracuaro",
+  "municipio": "CARÁCUARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034138015"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CARÁCUARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315282dba0706641e94c28c"
+  },
+  "subdominio": "coalcoman",
+  "municipio": "COALCOMÁN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034139170"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "COALCOMÁN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152af5ba0706641e94c29b"
+  },
+  "subdominio": "epitaciohuerta",
+  "municipio": "EPITACIO HUERTA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034142000"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "EPITACIO HUERTA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315293eba0706641e94c292"
+  },
+  "subdominio": "copandaro",
+  "municipio": "COPÁNDARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034142411"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "COPÁNDARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153f69ba0706641e94c2c0"
+  },
+  "subdominio": "nocupetaro",
+  "municipio": "NOCUPÉTARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034143894"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "NOCUPÉTARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63154179ba0706641e94c2c5"
+  },
+  "subdominio": "zamora",
+  "municipio": "ZAMORA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034144058"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ZAMORA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152d06ba0706641e94c2a5"
+  },
+  "subdominio": "huiramba",
+  "municipio": "HUIRAMBA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034144770"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "HUIRAMBA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631600e9c07ed27b2acbe5aa"
+  },
+  "subdominio": "turicato",
+  "municipio": "TURICATO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034146087"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TURICATO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316371ec07ed27b2acbe5c1"
+  },
+  "subdominio": "pajacuaran",
+  "municipio": "PAJACUARÁN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034149007"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PAJACUARÁN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631637d2c07ed27b2acbe5c8"
+  },
+  "subdominio": "purepero",
+  "municipio": "PURÉPERO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666119673544"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PURÉPERO",
+  "password": "declarapat",
+  "periodo": "2021-2024",
+  "instituto": "PURÉPERO"
+},{
+  "_id": {
+    "$oid": "631637ebc07ed27b2acbe5c9"
+  },
+  "subdominio": "puruandiro",
+  "municipio": "PURUÁNDIRO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034150303"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PURUÁNDIRO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63163865c07ed27b2acbe5cc"
+  },
+  "subdominio": "salvadorescalante",
+  "municipio": "SALVADOR ESCALANTE",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034150566"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "SALVADOR ESCALANTE",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316388ec07ed27b2acbe5cd"
+  },
+  "subdominio": "santaanamaya",
+  "municipio": "SANTA ANA MAYA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034150691"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "SANTA ANA MAYA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316402cc07ed27b2acbe5d0"
+  },
+  "subdominio": "senguio",
+  "municipio": "SENGUIO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034150851"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "SENGUIO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63151e7bba0706641e94c272"
+  },
+  "subdominio": "aguililla",
+  "municipio": "AGUILILLA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034135590"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "AGUILILLA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152448ba0706641e94c27d"
+  },
+  "subdominio": "brisenas",
+  "municipio": "BRISEÑAS",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034135725"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "BRISEÑAS",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631520d6ba0706641e94c276"
+  },
+  "subdominio": "angangueo",
+  "municipio": "ANGANGUEO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034137179"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ANGANGUEO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631528feba0706641e94c290"
+  },
+  "subdominio": "contepec",
+  "municipio": "CONTEPEC",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034137691"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CONTEPEC",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152a4aba0706641e94c297"
+  },
+  "subdominio": "ecuandureo",
+  "municipio": "ECUANDUREO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034138838"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ECUANDUREO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152280ba0706641e94c279"
+  },
+  "subdominio": "ario",
+  "municipio": "ARIO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034139323"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ARIO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631527aeba0706641e94c289"
+  },
+  "subdominio": "churumuco",
+  "municipio": "CHURUMUCO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034139558"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "CHURUMUCO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153b66ba0706641e94c2b8"
+  },
+  "subdominio": "maravatio",
+  "municipio": "MARAVATÍO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034139732"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "MARAVATÍO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63154040ba0706641e94c2c3"
+  },
+  "subdominio": "zinaparo",
+  "municipio": "ZINÁPARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034139900"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ZINÁPARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631541b1ba0706641e94c2c7"
+  },
+  "subdominio": "yurecuaro",
+  "municipio": "YURÉCUARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034140073"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "YURÉCUARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63152d38ba0706641e94c2a6"
+  },
+  "subdominio": "irimbo",
+  "municipio": "IRIMBO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034140619"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "IRIMBO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153a9aba0706641e94c2b4"
+  },
+  "subdominio": "lahuacana",
+  "municipio": "LA HUACANA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034140799"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "LA HUACANA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63151f7fba0706641e94c275"
+  },
+  "subdominio": "angamacutiro",
+  "municipio": "ANGAMACÚTIRO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034141320"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "ANGAMACÚTIRO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153a33ba0706641e94c2b0"
+  },
+  "subdominio": "josesixtoverduzco",
+  "municipio": "JOSÉ SIXTO VERDUZCO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034144355"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "JOSÉ SIXTO VERDUZCO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63153c59ba0706641e94c2b9"
+  },
+  "subdominio": "marcoscastellanos",
+  "municipio": "MARCOS CASTELLANOS",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666636719714"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "MARCOS CASTELLANOS",
+  "password": "CMMC2022",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6315ff04c07ed27b2acbe5a5"
+  },
+  "subdominio": "venustianocarranza",
+  "municipio": "VENUSTIANO CARRANZA",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034145332"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "VENUSTIANO CARRANZA",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316011ac07ed27b2acbe5ac"
+  },
+  "subdominio": "totolapan",
+  "municipio": "TOTOLAPAN",
+  "estado": "17",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034146504"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TOTOLAPAN",
+  "password": "declarapat",
+  "periodo": "2022-2024"
+},{
+  "_id": {
+    "$oid": "63160539c07ed27b2acbe5b3"
+  },
+  "subdominio": "tlalnepantla",
+  "municipio": "TLALNEPANTLA",
+  "estado": "17",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034147136"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TLALNEPANTLA",
+  "password": "declarapat",
+  "periodo": "2022-2024"
+},{
+  "_id": {
+    "$oid": "6316057ac07ed27b2acbe5b5"
+  },
+  "subdominio": "tingambato",
+  "municipio": "TINGAMBATO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034147854"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TINGAMBATO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631633b4c07ed27b2acbe5bb"
+  },
+  "subdominio": "nuevourecho",
+  "municipio": "NUEVO URECHO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034148406"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "NUEVO URECHO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316373cc07ed27b2acbe5c2"
+  },
+  "subdominio": "panindicuaro",
+  "municipio": "PANINDÍCUARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034149164"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PANINDÍCUARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "6316377fc07ed27b2acbe5c5"
+  },
+  "subdominio": "paracho",
+  "municipio": "PARACHO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034149337"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PARACHO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631637c1c07ed27b2acbe5c7"
+  },
+  "subdominio": "periban",
+  "municipio": "PERIBÁN",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034149674"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "PERIBÁN",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "631640fac07ed27b2acbe5d7"
+  },
+  "subdominio": "tarimbaro",
+  "municipio": "TARÍMBARO",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034151796"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TARÍMBARO",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63164225c07ed27b2acbe5df"
+  },
+  "subdominio": "tepalcatepec",
+  "municipio": "TEPALCATEPEC",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666983345199"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "TEPALCATEPEC",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "63165b9bc07ed27b2acbe5e7"
+  },
+  "subdominio": "sanlucas",
+  "municipio": "SAN LUCAS",
+  "estado": "16",
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034152222"
+    }
+  },
+  "estatus": "Cliente",
+  "pagos": [],
+  "ambitoPublico": "EJECUTIVO",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "organismo": "SAN LUCAS",
+  "password": "declarapat",
+  "periodo": "2021-2024"
+},{
+  "_id": {
+    "$oid": "634c200876ef97a45c0d8cd2"
+  },
+  "municipio": "NAHUATZEN",
+  "estado": "16",
+  "subdominio": "nahuatzen",
+  "estatus": "Cliente",
+  "periodo": "2021-2024",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "ambitoPublico": "EJECUTIVO",
+  "password": "nahuatzen",
+  "pagos": [],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666813281295"
+    }
+  },
+  "organismo": "NAHUATZEN",
+  "instituto": "NAHUATZEN"
+},{
+  "_id": {
+    "$oid": "634c561fed620000420011ad"
+  },
+  "municipio": "TETELA DEL VOLCÁN",
+  "estado": "17",
+  "subdominio": "teteladelvolcan",
+  "estatus": "Cliente",
+  "periodo": "2021-2024",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "ambitoPublico": "EJECUTIVO",
+  "password": "declarapat",
+  "pagos": [],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034152527"
+    }
+  },
+  "organismo": "TETELA DEL VOLCÁN"
+},{
+  "_id": {
+    "$oid": "634c5acaed620000420011ae"
+  },
+  "municipio": "MINERAL DE LA REFORMA",
+  "estado": "13",
+  "subdominio": "mineraldelareforma",
+  "estatus": "Cliente",
+  "periodo": "2021-2024",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "ambitoPublico": "EJECUTIVO",
+  "password": "declarapat",
+  "pagos": [],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666034152684"
+    }
+  },
+  "organismo": "MINERAL DE LA REFORMA"
+},{
+  "_id": {
+    "$oid": "635845b74d3dea9a94b5b93d"
+  },
+  "municipio": "Acuamanala",
+  "estado": "29",
+  "subdominio": "acuamanala",
+  "estatus": "Cliente",
+  "periodo": "2021-2024",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "ambitoPublico": "EJECUTIVO",
+  "password": "declarapat",
+  "pagos": [],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1666298882819"
+    }
+  },
+  "organismo": "Acuamanala",
+  "instituto": "Acuamanala"
+},{
+  "_id": {
+    "$oid": "635c8715857b54bf5f06c292"
+  },
+  "municipio": "DEMO",
+  "estado": "16",
+  "subdominio": "demo",
+  "estatus": "Demo",
+  "periodo": "2021-2024",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "ambitoPublico": "EJECUTIVO",
+  "password": "demo",
+  "pagos": [],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1667008403943"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63642681f60e000004007304"
+  },
+  "municipio": "AYUNTAMIENTO DE EMILIANO ZAPATA",
+  "estado": "13",
+  "subdominio": "emilianozapata",
+  "estatus": "Cliente",
+  "periodo": "2020-2024",
+  "nivelOrdenGobierno": "MUNICIPAL_ALCALDIA",
+  "ambitoPublico": "EJECUTIVO",
+  "password": "declarapat",
+  "pagos": [],
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1667507841223"
+    }
+  }
+}]

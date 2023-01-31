@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a048"
+  },
+  "lista": "0",
+  "clave": "INDMANU",
+  "valor": "INDUSTRIA MANUFACTURERA"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a04b"
+  },
+  "lista": "1",
+  "clave": "OTRO",
+  "valor": "OTRO (ESPECIFIQUE)"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a04f"
+  },
+  "lista": "0",
+  "clave": "SERVFIN",
+  "valor": "SERVICIOS FINANCIEROS"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a047"
+  },
+  "lista": "0",
+  "clave": "EELECT",
+  "valor": "ENERGÍA ELÉCTRICA"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a044"
+  },
+  "lista": "0",
+  "clave": "CMAYOR",
+  "valor": "COMERCIO AL POR MAYOR"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a049"
+  },
+  "lista": "0",
+  "clave": "MEDIOM",
+  "valor": "MEDIOS MASIVOS"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a04a"
+  },
+  "lista": "0",
+  "clave": "MIN",
+  "valor": "MINERÍA"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a04d"
+  },
+  "lista": "0",
+  "clave": "SERVCORP",
+  "valor": "SERVICIOS CORPORATIVOS"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a04e"
+  },
+  "lista": "0",
+  "clave": "SERVESPAR",
+  "valor": "SERVICIOS DE ESPARCIMIENTO"
+},{
+  "_id": {
+    "$oid": "62951971f306c3811ade9d01"
+  },
+  "lista": "0",
+  "clave": "AGRI",
+  "valor": "AGRICULTURA"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a045"
+  },
+  "lista": "0",
+  "clave": "CMENOR",
+  "valor": "COMERCIO AL POR MENOR"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a046"
+  },
+  "lista": "0",
+  "clave": "CONS",
+  "valor": "CONSTRUCCIÓN"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a051"
+  },
+  "lista": "0",
+  "clave": "SERVPROF",
+  "valor": "SERVICIOS PROFESIONALES"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a04c"
+  },
+  "lista": "0",
+  "clave": "SERVALOJ",
+  "valor": "SERVICIOS DE ALOJAMIENTO"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a050"
+  },
+  "lista": "0",
+  "clave": "SERVINM",
+  "valor": "SERVICIOS INMOBILIARIOS"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a052"
+  },
+  "lista": "0",
+  "clave": "SERVS",
+  "valor": "SERVICIOS DE SALUD"
+},{
+  "_id": {
+    "$oid": "616f91d2fe1d437eee77a053"
+  },
+  "lista": "0",
+  "clave": "TRANS",
+  "valor": "TRANSPORTE"
+}]

@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "618325db6754f3363cd617b4"
+  },
+  "clave": "PUB",
+  "valor": "PUBLICO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6183266a6754f3363cd617b5"
+  },
+  "clave": "PRI",
+  "valor": "PRIVADO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618326926754f3363cd617b7"
+  },
+  "clave": "NIN",
+  "valor": "NINGUNO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618326806754f3363cd617b6"
+  },
+  "clave": "OTRO",
+  "valor": "OTRO",
+  "lista": 1
+}]

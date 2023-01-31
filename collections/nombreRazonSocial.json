@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "618844947410235d9b86066d"
+  },
+  "clave": "MORAL",
+  "valor": "MORAL"
+},{
+  "_id": {
+    "$oid": "618844747410235d9b86066c"
+  },
+  "clave": "FISICA",
+  "valor": "FISICA"
+}]

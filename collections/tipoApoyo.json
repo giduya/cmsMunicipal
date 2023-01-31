@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "618867bc7410235d9b8606ab"
+  },
+  "clave": "SER",
+  "valor": "SERVICIO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618867dc7410235d9b8606ad"
+  },
+  "clave": "OTRO",
+  "valor": "OTRO (ESPECIFIQUE)",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "618867cc7410235d9b8606ac"
+  },
+  "clave": "OBRA",
+  "valor": "OBRA",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "6188678c7410235d9b8606a9"
+  },
+  "clave": "SUB",
+  "valor": "SUBSIDIO",
+  "lista": 0
+}]

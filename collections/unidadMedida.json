@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6188773d7410235d9b86073f"
+  },
+  "clave": "m2",
+  "valor": "METRO CUADRADO"
+},{
+  "_id": {
+    "$oid": "6188775f7410235d9b860740"
+  },
+  "clave": "ha",
+  "valor": "HECTÁREA"
+},{
+  "_id": {
+    "$oid": "618877737410235d9b860741"
+  },
+  "clave": "km2",
+  "valor": "KILÓMETRO CUADRADO"
+}]

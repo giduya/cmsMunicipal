@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61883e927410235d9b86064d"
+  },
+  "clave": "NO APLICA",
+  "valor": "NO APLICA",
+  "adquisicion": ""
+},{
+  "_id": {
+    "$oid": "61883e347410235d9b86064b"
+  },
+  "clave": "CRÉDITO",
+  "valor": "CRÉDITO",
+  "adquisicion": "CPV"
+},{
+  "_id": {
+    "$oid": "61883e7f7410235d9b86064c"
+  },
+  "clave": "CONTADO",
+  "valor": "CONTADO",
+  "adquisicion": "CPV"
+}]

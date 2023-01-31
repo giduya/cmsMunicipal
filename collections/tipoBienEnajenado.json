@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6189d3df7410235d9b8607aa"
+  },
+  "clave": "INMUEBLE",
+  "valor": "INMUEBLE"
+},{
+  "_id": {
+    "$oid": "6189d3e97410235d9b8607ab"
+  },
+  "clave": "VEHICULO",
+  "valor": "VEHICULO"
+},{
+  "_id": {
+    "$oid": "6189d2ef7410235d9b8607a9"
+  },
+  "clave": "MUEBLE",
+  "valor": "MUEBLE"
+}]

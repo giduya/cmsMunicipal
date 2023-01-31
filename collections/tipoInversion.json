@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "61886f2a7410235d9b8606e2"
+  },
+  "clave": "AFOT",
+  "valor": "AFORES Y OTROS"
+},{
+  "_id": {
+    "$oid": "61886ea87410235d9b8606db"
+  },
+  "clave": "BANC",
+  "valor": "BANCARIA"
+},{
+  "_id": {
+    "$oid": "61886ee67410235d9b8606de"
+  },
+  "clave": "ORPM",
+  "valor": "ORGANIZACIONES PRIVADAS Y/O MERCANTILES"
+},{
+  "_id": {
+    "$oid": "61886ed67410235d9b8606dd"
+  },
+  "clave": "FINV",
+  "valor": "FONDOS DE INVERSIÓN"
+},{
+  "_id": {
+    "$oid": "61886ef67410235d9b8606df"
+  },
+  "clave": "POMM",
+  "valor": "POSESIÓN DE MONEDAS Y/O METALES"
+},{
+  "_id": {
+    "$oid": "61886f037410235d9b8606e0"
+  },
+  "clave": "SEGR",
+  "valor": "SEGUROS"
+},{
+  "_id": {
+    "$oid": "61886f157410235d9b8606e1"
+  },
+  "clave": "VBUR",
+  "valor": "VALORES BURSÁTILES"
+}]

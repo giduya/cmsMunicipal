@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "618878ef7410235d9b860745"
+  },
+  "clave": "SENTENCIA",
+  "valor": "SENTENCIA"
+},{
+  "_id": {
+    "$oid": "618878c87410235d9b860744"
+  },
+  "clave": "ESCRITURA PÚBLICA",
+  "valor": "ESCRITURA PÚBLICA"
+},{
+  "_id": {
+    "$oid": "618879067410235d9b860746"
+  },
+  "clave": "CONTRATO",
+  "valor": "CONTRATO"
+}]

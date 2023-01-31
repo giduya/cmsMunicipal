@@ -1,0 +1,290 @@
+[{
+  "_id": {
+    "$oid": "61521427ca552da0c3722416"
+  },
+  "tipoDeclaracion": [
+    {
+      "menu": "Patrimonial",
+      "nombre": "Situación Patrimonial",
+      "icon": "flaticon-381-home-3",
+      "lista": "1",
+      "slug": "situacionPatrimonial",
+      "formatos": [
+        {
+          "menu": "Datos generales",
+          "titulo": "DATOS GENERALES",
+          "descripcion": "",
+          "slug": "datosGenerales",
+          "lista": 1,
+          "subformatos": null,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Domicilio declarante",
+          "titulo": "DOMICILIO DECLARANTE",
+          "descripcion": "",
+          "slug": "domicilioDeclarante",
+          "lista": 2,
+          "subformatos": null,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Escolaridad",
+          "titulo": "DATOS CURRICULARES DEL DECLARANTE",
+          "descripcion": "",
+          "slug": "datosCurricularesDeclarante",
+          "lista": 3,
+          "subformatos": "escolaridad",
+          "delete": "escolaridad",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Datos empleo",
+          "titulo": "DATOS DEL EMPLEO, CARGO O COMISIÓN",
+          "descripcion": "<li>LLena los datos del empleo en el que inicias, trabajas o finalizas el día de hoy.</li>",
+          "slug": "datosEmpleoCargoComision",
+          "lista": 4,
+          "subformatos": "otroEmpleoCargoComision",
+          "delete": "empleo",
+          "ninguno": "Si no cuenta con otro empleo, cargo, comisión en gobierno, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Experiencia laboral",
+          "titulo": "EXPERIENCIA LABORAL (ÚLTIMOS CINCO EMPLEOS)",
+          "descripcion": "",
+          "slug": "experienciaLaboral",
+          "lista": 5,
+          "subformatos": "experiencia",
+          "delete": "experiencia",
+          "agregar": true,
+          "excluido": "Todos",
+          "ninguno": "Si no tuvo empleo anterior, marque así: ☑"
+        },
+        {
+          "menu": "Datos pareja",
+          "titulo": "DATOS DE LA PAREJA",
+          "descripcion": "",
+          "slug": "datosPareja",
+          "lista": 6,
+          "subformatos": null,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Dependientes económicos",
+          "titulo": "DATOS DEL DEPENDIENTE ECONÓMICO",
+          "descripcion": "",
+          "slug": "datosDependientesEconomicos",
+          "lista": 7,
+          "subformatos": "dependienteEconomico",
+          "delete": "dependiente económico",
+          "ninguno": "Si no tiene dependientes económicos a su cargo, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Ingresos",
+          "titulo": "INGRESOS NETOS DEL DECLARANTE, PAREJA Y / O\nDEPENDIENTES ECONÓMICOS",
+          "descripcion": "",
+          "slug": "ingresos",
+          "lista": 8,
+          "subformatos": null,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Actividad anterior",
+          "titulo": "¿TE DESEMPEÑASTE COMO SERVIDOR PÚBLICO EN EL AÑO INMEDIATO ANTERIOR?",
+          "descripcion": "",
+          "slug": "actividadAnualAnterior",
+          "lista": 9,
+          "subformatos": null,
+          "excluido": "MODIFICACIÓN"
+        },
+        {
+          "menu": "Bienes inmuebles",
+          "titulo": "BIENES INMUEBLES (SITUACIÓN ACTUAL)",
+          "descripcion": "",
+          "slug": "bienesInmuebles",
+          "lista": 10,
+          "subformatos": "bienInmueble",
+          "delete": "",
+          "ninguno": "Si no tiene propiedad sobre algún bien inmueble, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Vehículos",
+          "titulo": "VEHÍCULOS (SITUACIÓN ACTUAL)",
+          "descripcion": "",
+          "slug": "vehiculos",
+          "lista": 11,
+          "subformatos": "vehiculo",
+          "delete": "",
+          "ninguno": "Si no tiene vehículos a su nombre, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Bienes muebles",
+          "titulo": "BIENES MUEBLES (SITUACIÓN ACTUAL)",
+          "descripcion": "",
+          "slug": "bienesMuebles",
+          "lista": 12,
+          "subformatos": "bienMueble",
+          "delete": "",
+          "ninguno": "Si no tiene bienes muebles a su nombre, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Cuentas bancarias",
+          "titulo": "INVERSIONES, CUENTAS BANCARIAS Y OTRO TIPO DE VALORES / ACTIVOS\n(SITUACIÓN ACTUAL)",
+          "descripcion": "<li>Todos los datos de las inversiones, cuentas bancarias y otro tipo de valores / activos a nombre de la pareja,\ndependientes económicos y terceros copropietarios con el declarante no serán públicos.</li>",
+          "slug": "inversionesCuentasValores",
+          "lista": 13,
+          "subformatos": "inversion",
+          "delete": "cuenta / inversión",
+          "ninguno": "Si no tiene dependientes cuentas o inversiones a su nombre, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Adeudos",
+          "titulo": "ADEUDOS / PASIVOS (SITUACIÓN ACTUAL)",
+          "descripcion": "<li>Todos los datos de los adeudos a nombre de la pareja, dependientes económicos y/o terceros o que sean en copropiedad con el declarante no serán públicos</li>",
+          "slug": "adeudosPasivos",
+          "lista": 14,
+          "subformatos": "adeudo",
+          "delete": "adeudo",
+          "ninguno": "Si no tiene adeudos a su nombre, marque así: ☑",
+          "agregar": true,
+          "excluido": "Todos"
+        },
+        {
+          "menu": "Préstamos",
+          "titulo": "PRÉSTAMO O COMODATO POR TERCEROS (SITUACIÓN ACTUAL)",
+          "descripcion": "",
+          "slug": "prestamoComodato",
+          "lista": 15,
+          "subformatos": "prestamo",
+          "delete": "bien en préstamo",
+          "ninguno": "Si no tiene un vehículo o inmueble en préstamo o comodato, marque así: ☑",
+          "excluido": "Todos"
+        }
+      ]
+    },
+    {
+      "menu": "Interés",
+      "nombre": "Interés",
+      "icon": "flaticon-381-briefcase",
+      "lista": "2",
+      "slug": "interes",
+      "formatos": [
+        {
+          "menu": "Empresas",
+          "titulo": "PARTICIPACIÓN EN EMPRESAS, SOCIEDADES O ASOCIACIONES (HASTA LOS 2 ÚLTIMOS AÑOS)",
+          "descripcion": "<li>Todos los datos de participación en empresas, sociedades o asociaciones de la pareja o dependientes económicos no serán públicos</li>",
+          "delete": "empresa o asociación",
+          "lista": "16",
+          "ninguno": "Si no tiene una empresa o asociación en alguna, marque así: ☑",
+          "slug": "participacion",
+          "subformatos": "participacion",
+          "excluido": "Todos",
+          "agregar": true
+        },
+        {
+          "menu": "Toma decisiones",
+          "titulo": "PARTICIPA EN LA TOMA DE DECISIONES DE ALGUNA DE ESTAS INSTITUCIONES?\n(HASTA LOS 2 ÚLTIMOS AÑOS)",
+          "descripcion": "<li>Todos los datos de la participación en alguna de estas instituciones o dependientes económicos no serán públicos.</li>",
+          "ninguno": "Si no toma decisiones en una empresa una empresa o asociación en alguna, marque así: ☑",
+          "slug": "participacionTomaDecisiones",
+          "subformatos": "participacion",
+          "excluido": "Todos",
+          "delete": "empresa u organismo",
+          "lista": "17",
+          "agregar": true
+        },
+        {
+          "menu": "Apoyos",
+          "titulo": "APOYOS O BENEFICIOS PÚBLICOS (HASTA LOS 2 ÚLTIMOS AÑOS)",
+          "descripcion": "<li></li>",
+          "ninguno": "Si no ha recbido apoyos, marque así: ☑",
+          "slug": "apoyos",
+          "subformatos": "apoyo",
+          "excluido": "Todos",
+          "delete": "apoyo",
+          "lista": "18",
+          "agregar": true
+        },
+        {
+          "menu": "Representaciones",
+          "titulo": "REPRESENTACIÓN (HASTA LOS 2 ÚLTIMOS AÑOS)",
+          "descripcion": "<li>Todos los datos de representación de la pareja o dependiente económicos no serán públicos.</li>\n.</li>",
+          "ninguno": "Si no presenta alguna persona u organización, marque así: ☑",
+          "slug": "representaciones",
+          "subformatos": "representacion",
+          "excluido": "Todos",
+          "delete": "representación",
+          "lista": "19",
+          "agregar": true
+        },
+        {
+          "menu": "Clientes principales",
+          "descripcion": "<li></li>",
+          "ninguno": "Si no tiene clientes, marque así: ☑",
+          "titulo": "CLIENTES PRINCIPALES (HASTA LOS 2 ÚLTIMOS AÑOS)",
+          "delete": "cliente",
+          "excluido": "Todos",
+          "lista": "20",
+          "slug": "clientesPrincipales",
+          "subformatos": "cliente",
+          "agregar": true
+        },
+        {
+          "menu": "Beneficios privados",
+          "descripcion": "",
+          "ninguno": "Si no tiene beneficios de sorteos, loterias, etc, marque así: ☑",
+          "titulo": "BENEFICIOS PRIVADOS (HASTA LOS 2 ÚLTIMOS AÑOS)",
+          "delete": "beneficio",
+          "excluido": "Todos",
+          "lista": "21",
+          "slug": "beneficiosPrivados",
+          "subformatos": "beneficio",
+          "agregar": true
+        },
+        {
+          "menu": "Fideicomisos",
+          "descripcion": "Todos los datos de participación en fideicomisos de la pareja o dependiente económico no serán públicos. \n",
+          "ninguno": "Si no participa en un fideicomiso, marque así: ☑\n",
+          "agregar": true,
+          "delete": "fideicomiso",
+          "excluido": "Todos",
+          "lista": "22",
+          "slug": "fideicomisos",
+          "subformatos": "fideicomiso",
+          "titulo": "FIDEICOMISOS (HASTA LOS 2 ÚLTIMOS AÑOS)"
+        }
+      ]
+    },
+    {
+      "menu": "Firmar",
+      "nombre": "Firmar",
+      "icon": "flaticon-381-notepad",
+      "lista": "3",
+      "slug": "firmar",
+      "formatos": [
+        {
+          "menu": "Firmar",
+          "descripcion": "",
+          "excluido": "Todos",
+          "lista": "23",
+          "slug": "electronicamente",
+          "subformatos": "electronicamente",
+          "titulo": "Firmar electrónicamente"
+        }
+      ]
+    }
+  ]
+}]

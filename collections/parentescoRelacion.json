@@ -1,0 +1,162 @@
+[{
+  "_id": {
+    "$oid": "618873a37410235d9b86071a"
+  },
+  "clave": "CONY",
+  "valor": "CÓNYUGE",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873b17410235d9b86071b"
+  },
+  "clave": "CUN",
+  "valor": "CUÑADO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873f77410235d9b86071f"
+  },
+  "clave": "PAD",
+  "valor": "PADRE",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873577410235d9b860716"
+  },
+  "clave": "BISA",
+  "valor": "BISABUELO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873d77410235d9b86071d"
+  },
+  "clave": "HIJ",
+  "valor": "HIJO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873ea7410235d9b86071e"
+  },
+  "clave": "MAD",
+  "valor": "MADRE",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "6188740d7410235d9b860720"
+  },
+  "clave": "PRI",
+  "valor": "PRIMO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618874997410235d9b860724"
+  },
+  "clave": "TATN",
+  "valor": "TATARANIETO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618874dd7410235d9b860727"
+  },
+  "clave": "NIN",
+  "valor": "NINGUNO",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873757410235d9b860718"
+  },
+  "clave": "CONB",
+  "valor": "CONCUBINA O CONCUBINARIO",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873c47410235d9b86071c"
+  },
+  "clave": "HER",
+  "valor": "HERMANO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "6188741d7410235d9b860721"
+  },
+  "clave": "SOB",
+  "valor": "SOBRINO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "6188743f7410235d9b860723"
+  },
+  "clave": "TATA",
+  "valor": "TATARABUELO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618874ae7410235d9b860725"
+  },
+  "clave": "TIOA",
+  "valor": "TIO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618874eb7410235d9b860728"
+  },
+  "clave": "AHI",
+  "valor": "AHIJADO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "619972460ebaeb4800a326d9"
+  },
+  "clave": "YER",
+  "valor": "YERNO",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873307410235d9b860714"
+  },
+  "clave": "ABU",
+  "valor": "ABUELO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873657410235d9b860717"
+  },
+  "clave": "BISN",
+  "valor": "BISNIETO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618873887410235d9b860719"
+  },
+  "clave": "CONC",
+  "valor": "CONCUÑO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "6188742f7410235d9b860722"
+  },
+  "clave": "SUE",
+  "valor": "SUEGRO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "618874cd7410235d9b860726"
+  },
+  "clave": "NIE",
+  "valor": "NIETO(A)",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "619971b00ebaeb4800a326d8"
+  },
+  "clave": "NUE",
+  "valor": "NUERA",
+  "lista": "0"
+},{
+  "_id": {
+    "$oid": "6199727c0ebaeb4800a326da"
+  },
+  "clave": "OTRO",
+  "valor": "OTRO(ESPECIFIQUE)",
+  "lista": "1"
+}]

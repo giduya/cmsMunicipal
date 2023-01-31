@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "61732362fe1d437eee77a074"
+  },
+  "clave": "FEDERAL",
+  "valor": "FEDERAL",
+  "lista": 3
+},{
+  "_id": {
+    "$oid": "61732389fe1d437eee77a075"
+  },
+  "clave": "ESTATAL",
+  "valor": "ESTATAL",
+  "lista": 2
+},{
+  "_id": {
+    "$oid": "61732398fe1d437eee77a076"
+  },
+  "clave": "MUNICIPAL_ALCALDIA",
+  "valor": "MUNICIPAL",
+  "lista": 1
+}]

@@ -1,0 +1,5 @@
+Cada q se hace un vendor update:
+1)hay que hacer un php artisan fix:passport
+2)agregar un prefijo api/oauth en Passport::routes();
+
+AuthCode.php

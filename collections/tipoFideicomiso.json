@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "616f8ceafe1d437eee77a038"
+  },
+  "clave": "PRIVADO",
+  "valor": "PRIVADO"
+},{
+  "_id": {
+    "$oid": "6171b195fe1d437eee77a062"
+  },
+  "clave": "MIXTO",
+  "valor": "MIXTO"
+},{
+  "_id": {
+    "$oid": "616f8ceafe1d437eee77a039"
+  },
+  "clave": "PUBLICO",
+  "valor": "PÚBLICO"
+}]

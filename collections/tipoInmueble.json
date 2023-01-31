@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "618869977410235d9b8606ba"
+  },
+  "clave": "DPTO",
+  "valor": "DEPARTAMENTO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886c667410235d9b8606c1"
+  },
+  "clave": "OTRO",
+  "valor": "OTROS (ESPECIFIQUE)",
+  "lista": 1
+},{
+  "_id": {
+    "$oid": "618869c47410235d9b8606bb"
+  },
+  "clave": "EDIF",
+  "valor": "EDIFICIO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618869de7410235d9b8606bc"
+  },
+  "clave": "LOCC",
+  "valor": "LOCAL COMERCIAL",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886b497410235d9b8606bd"
+  },
+  "clave": "BODG",
+  "valor": "BODEGA",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886c567410235d9b8606c0"
+  },
+  "clave": "TERR",
+  "valor": "TERRENO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886bbb7410235d9b8606be"
+  },
+  "clave": "PALC",
+  "valor": "PALCO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "61886bcd7410235d9b8606bf"
+  },
+  "clave": "RACH",
+  "valor": "RANCHO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618869757410235d9b8606b9"
+  },
+  "clave": "CASA",
+  "valor": "CASA",
+  "lista": 0
+}]

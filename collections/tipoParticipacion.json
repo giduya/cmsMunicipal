@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "622e50aa4691a6ec81d57416"
+  },
+  "clave": "APOD",
+  "valor": "APODERADO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618842b27410235d9b860661"
+  },
+  "clave": "COMI",
+  "valor": "COMISARIO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618843147410235d9b860663"
+  },
+  "clave": "ACCI",
+  "valor": "ACCIONISTA",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "618842ea7410235d9b860662"
+  },
+  "clave": "SCIO",
+  "valor": "SOCIO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "622e50c54691a6ec81d57417"
+  },
+  "clave": "COLB",
+  "valor": "COLABORADOR",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "622e50e74691a6ec81d57418"
+  },
+  "clave": "BENE",
+  "valor": "BENEFICIARIO",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "622e50804691a6ec81d57415"
+  },
+  "clave": "REPR",
+  "valor": "REPRESENTANTE",
+  "lista": 0
+},{
+  "_id": {
+    "$oid": "622e51004691a6ec81d57419"
+  },
+  "clave": "OTRO",
+  "valor": "OTROS (ESPECIFIQUE)",
+  "lista": 1
+}]
