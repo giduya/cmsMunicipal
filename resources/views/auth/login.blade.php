@@ -51,7 +51,7 @@
             </div>
             <div class="row g-0 my-auto">
               <div class="col-10 col-lg-9 mx-auto">
-                <h1 class="text-11 mb-4"><span style="background:#ffe01b;">{{ $config->municipio }}</span></h1>
+                <h1 class="text-11 mb-4"><span style="background:#ffe01b;">municipio </span></h1>
                 <h1 class="text-6 text-white lh-base mb-5">Presenta aquí tu declaración en línea, sin complicaciones.</h1>
               </div>
             </div>

@@ -30,17 +30,7 @@ class AppServiceProvider extends ServiceProvider
         view()->share('config', $config);
       }
 
-      Blade::directive('money', function ($number) {
-          return "<?php
-                        if(is_numeric($number))
-                        {
-                          if($number > 0)
-                          {
-                            echo number_format($number, 0, '.', ',');
-                          }
-                        }
-                  ?>";
-      });
+
 
       Blade::directive('dMy', function($fecha){
             return "<?php
@@ -51,17 +41,7 @@ class AppServiceProvider extends ServiceProvider
             ?>"; //12-dic-17
       });
 
-      Blade::directive('sinZero', function($numero){
-        return "<?php echo ltrim($numero, '0'); ?>"; //01
-      });
 
-      Blade::directive('rfc', function($string){
-        return "<?php echo substr($string, 0, 10); ?>"; //01
-      });
-
-      Blade::directive('homoClave', function($string){
-        return "<?php echo substr($string, -3); ?>"; //01
-      });
 
     }
 
