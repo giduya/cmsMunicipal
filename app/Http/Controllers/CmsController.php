@@ -13,7 +13,7 @@ use PDF;
 use SimpleSoftwareIO\QrCode\Facades\QrCode;
 
 
-class PublicController extends Controller
+class CmsController extends Controller
 {
 
   public function landing()
@@ -37,7 +37,14 @@ class PublicController extends Controller
     $array = explode(".", $_SERVER['SERVER_NAME'],2);
 
     return view('auth.login');
-
   }
+
+
+
+  public function inicio()
+  {
+  }
+
+
 
 }///API CONTROLLER

@@ -17,6 +17,8 @@ use App\Models\Declaracion;
 |
 */
 
-Route::get('/', [App\Http\Controllers\PublicController::class, 'landing'])->name('landing');
+Route::get('/', [App\Http\Controllers\CmsController::class, 'landing'])->name('landing');
+
+Route::get('/inicio', [App\Http\Controllers\CmsController::class, 'inicio']);
 
 Auth::routes();
