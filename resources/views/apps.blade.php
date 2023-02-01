@@ -15,18 +15,6 @@ style="background-image: url('app/img/backgrounds/bg1.jpg') !important; backgrou
   </div>
 
 
-  @if(CARPETA == "startup")
-  <div class="app_icon">
-    <a href="{{ url('rif') }}">
-      <img src="app/img/apps/rif_icon.png" alt="Startup"/>
-      <span class="app_text">
-        Mi Startup <br/><br/>
-      </span>
-    </a>
-  </div>
-  @endif
-
-
 
   <div class="app_icon">
     <a href="{{ url('help') }}">
