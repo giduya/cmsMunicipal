@@ -3,9 +3,9 @@
 <body>
   <div id="fb-root"></div>
   <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-  <div class="page-container @if(Auth::user()->menu == 0) page-navigation-toggled page-container-wide @endif">
+  <div class="page-container page-navigation-toggled page-container-wide ">
     <div class="page-sidebar page-sidebar-fixed scroll">
-      <ul class="x-navigation x-navigation-custom @if(Auth::user()->menu == 0) x-navigation-minimized @endif">
+      <ul class="x-navigation x-navigation-custom x-navigation-minimized">
         <li class="xn-logo">
           <a>Ayuntamiento Digital</a>
           <a href="#" class="x-navigation-control"></a>
@@ -52,7 +52,7 @@
 
       <ul class="x-navigation x-navigation-horizontal x-navigation-panel">
         <li class="xn-icon-button">
-          <a href="{{ url('menu/'.Auth::user()->menu) }}" class="x-navigation-minimize"><span class="@if(Auth::user()->menu == 0)far fa-indent @else far fa-outdent @endif"></span></a>
+          <a href="{{ url('menu/'.Auth::user()->menu) }}" class="x-navigation-minimize"><span class="far fa-indent far fa-outdent"></span></a>
         </li><!-- END TOGGLE NAVIGATION -->
 
         <li class="xn-icon-button pull-right last">
