@@ -19,6 +19,8 @@ use App\Models\Declaracion;
 
 Route::get('/', [App\Http\Controllers\CmsController::class, 'landing'])->name('landing');
 
-Route::get('/inicio', [App\Http\Controllers\CmsController::class, 'inicio']);
+Route::get('/apps', [App\Http\Controllers\CmsController::class, 'apps']);
+
+Route::get('/cms', [App\Http\Controllers\CmsController::class, 'cms']);
 
 Auth::routes();
