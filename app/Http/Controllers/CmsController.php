@@ -43,6 +43,7 @@ class CmsController extends Controller
 
   public function inicio()
   {
+    return view('apps');
   }
 
 
