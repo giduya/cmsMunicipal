@@ -41,9 +41,16 @@ class CmsController extends Controller
 
 
 
-  public function inicio()
+  public function apps()
   {
     return view('apps');
+  }
+
+
+
+  public function inicio()
+  {
+    return view('cms');
   }
 
 
