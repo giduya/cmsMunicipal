@@ -12,11 +12,7 @@
         </li>
         <li class="xn-profile">
           <a href="#" class="profile-mini">
-            @if(Auth::user()->avatar)
-              <img src="{{ asset($ruta->ruta_img().Auth::user()->avatar) }}" alt="">
-            @else
-              <img src="{{ asset('app/img/avatar.png') }}" alt="">
-            @endif
+            <img src="{{ asset('app/img/avatar.png') }}" alt="">
           </a>
           <div class="profile">
             <div class="profile-image">
@@ -24,7 +20,7 @@
             </div>
             <div class="profile-data">
               <div class="profile-data-name">Bienvenido/a</div>
-              <div class="profile-data-title">{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}</div>
+              <div class="profile-data-title"></div>
             </div>
             <div class="profile-controls">
               <a data-toggle="tooltip" data-placement="top" data-original-title="Perfil" class="profile-control-left" href="{{ URL::to('profile') }}"><span class="glyphicon glyphicon-user"></span></a>
