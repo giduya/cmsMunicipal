@@ -21,11 +21,7 @@
             </div>
             <div class="pull-right">
               <div class="x-features-profile">
-                @if (Auth::user()->avatar)
-                  <img src="{{ asset($ruta->ruta_img().Auth::user()->avatar) }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
-                @else
-                  <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
-                @endif
+                <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
                 <ul class="xn-drop-left animated zoomIn">
                   <li><a href="{{ url('apps') }}"><span class="far fa-desktop"></span> Apps</a></li>
                   <li><a href="{{ url('profile') }}"><span class="far fa-user"></span> Mi Perfil</a></li>

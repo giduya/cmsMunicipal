@@ -27,16 +27,6 @@ style="background-image: url('app/img/backgrounds/bg1.jpg') !important; backgrou
 
 
 
-  <div class="app_icon">
-    <a href="https://forms.gle/TyFMaLfCkZPz2kYk8" target="_blank">
-      <img src="app/img/apps/dpt_icon.png" alt="Declaración Patrimonial"/>
-      <span class="app_text">
-        Declaración Patrimonial
-      </span>
-    </a>
-  </div>
-
-
 
   <div class="app_icon">
     <a href="{{ url('cms') }}">
