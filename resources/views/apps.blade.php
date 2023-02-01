@@ -52,7 +52,7 @@
 
       <ul class="x-navigation x-navigation-horizontal x-navigation-panel">
         <li class="xn-icon-button">
-          <a href="{{ url('menu/'.Auth::user()->menu) }}" class="x-navigation-minimize"><span class="far fa-indent far fa-outdent"></span></a>
+          <a href="" class="x-navigation-minimize"><span class="far fa-indent far fa-outdent"></span></a>
         </li><!-- END TOGGLE NAVIGATION -->
 
         <li class="xn-icon-button pull-right last">
