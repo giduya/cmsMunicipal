@@ -16,11 +16,7 @@
           </a>
           <div class="profile">
             <div class="profile-image">
-              @if (Auth::user()->avatar)
-                <img src="{{ asset($ruta->ruta_img().Auth::user()->avatar) }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
-              @else
-                <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
-              @endif
+              <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
             </div>
             <div class="profile-data">
               <div class="profile-data-name">Bienvenido/a</div>
