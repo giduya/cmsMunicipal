@@ -5,7 +5,7 @@
   <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
   <div class="page-container">
     <div class="page-sidebar page-sidebar-fixed scroll">
-      <ul class="x-navigation x-navigation-custom @if(Auth::user()->menu == 0) x-navigation-minimized @endif">
+      <ul class="x-navigation x-navigation-custom">
         <li class="xn-logo">
           <a>Ayuntamiento Digital</a>
           <a href="#" class="x-navigation-control"></a>
@@ -13,9 +13,9 @@
         <li class="xn-profile">
           <a href="#" class="profile-mini">
             @if(Auth::user()->avatar)
-              <img src="{{ asset($ruta->ruta_img().Auth::user()->avatar) }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
+              <img src="{{ asset($ruta->ruta_img().Auth::user()->avatar) }}" alt="">
             @else
-              <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
+              <img src="{{ asset('app/img/avatar.png') }}" alt="">
             @endif
           </a>
           <div class="profile">
