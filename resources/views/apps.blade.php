@@ -12,15 +12,15 @@
         </li>
         <li class="xn-profile">
           <a href="#" class="profile-mini">
-            <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
+            <img src="{{ asset('app/img/avatar.png') }}" alt="">
           </a>
           <div class="profile">
             <div class="profile-image">
-              <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
+              <img src="{{ asset('app/img/avatar.png') }}" alt="">
             </div>
             <div class="profile-data">
               <div class="profile-data-name">Bienvenido/a</div>
-              <div class="profile-data-title">{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}</div>
+              <div class="profile-data-title"></div>
             </div>
             <div class="profile-controls">
               <a data-toggle="tooltip" data-placement="top" data-original-title="Perfil" class="profile-control-left" href="{{ URL::to('profile') }}"><span class="glyphicon glyphicon-user"></span></a>
