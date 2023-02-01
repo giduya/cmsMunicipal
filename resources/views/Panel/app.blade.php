@@ -20,11 +20,7 @@
           </a>
           <div class="profile">
             <div class="profile-image">
-              @if (Auth::user()->avatar)
-                <img src="{{ asset($ruta->ruta_img().Auth::user()->avatar) }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
-              @else
-                <img src="{{ asset('app/img/avatar.png') }}" alt="{{ Auth::user()->nombre }} {{ Auth::user()->apellido_paterno }}">
-              @endif
+              <img src="{{ asset('app/img/avatar.png') }}" alt="">
             </div>
             <div class="profile-data">
               <div class="profile-data-name">Bienvenido/a</div>
@@ -52,7 +48,7 @@
 
       <ul class="x-navigation x-navigation-horizontal x-navigation-panel">
         <li class="xn-icon-button">
-          <a href="{{ url('menu/'.Auth::user()->menu) }}" class="x-navigation-minimize"><span class="@if(Auth::user()->menu == 0)far fa-indent @else far fa-outdent @endif"></span></a>
+          <a href="{{ url('menu/') }}" class="x-navigation-minimize"><span class="far fa-indent far fa-outdent"></span></a>
         </li><!-- END TOGGLE NAVIGATION -->
 
         <li class="xn-icon-button pull-right last">
