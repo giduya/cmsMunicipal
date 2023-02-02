@@ -57,6 +57,8 @@ class CmsController extends Controller
 
   public function menu()
   {
+    $maqueta = Maqueta::first();
+
     return view('Cms.menuPrincipal');
   }
 
