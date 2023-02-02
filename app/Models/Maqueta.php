@@ -27,7 +27,7 @@ class Maqueta extends Model
 
     public function crear($tipo)
     {
-      $maqueta = Maqueta::create(['plantilla' => 1);
+      $maqueta = Maqueta::create(['plantilla' => 1]);
 
       dd($maqueta); exit;
 
