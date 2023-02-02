@@ -59,9 +59,9 @@ class CmsController extends Controller
   {
     $maqueta = new Maqueta;
     $maqueta->plantilla = 1;
+    $maqueta->html = array('Inicio','Tu Gobierno','Trámites y Servicios','Obligaciones','Prensa','Contacto');
     $maqueta->save();
 
-    dd($maqueta); exit;
 
     //return view('Cms.menuPrincipal');
   }
