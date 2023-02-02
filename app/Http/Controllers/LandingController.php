@@ -18,7 +18,7 @@ class LandingController extends Controller
   {
     $array = explode(".", $_SERVER['SERVER_NAME'],2);
 
-    return view('index');
+    return view('Plantilla.index');
   }
 
 }///API CONTROLLER
