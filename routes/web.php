@@ -23,4 +23,6 @@ Route::get('/apps', [App\Http\Controllers\CmsController::class, 'apps']);
 
 Route::get('/cms', [App\Http\Controllers\CmsController::class, 'cms']);
 
+Route::get('/cms/menu', [App\Http\Controllers\CmsController::class, 'menu']);
+
 Auth::routes();

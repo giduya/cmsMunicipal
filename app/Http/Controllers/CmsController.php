@@ -55,4 +55,9 @@ class CmsController extends Controller
 
 
 
+  public function menu()
+  {
+    return view('Cms.menuPrincipal');
+  }
+
 }///API CONTROLLER
