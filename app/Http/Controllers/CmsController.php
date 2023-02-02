@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Hash;
 
 use App\Models\Auxiliares;
 use App\Models\Catalogo;
-use App\Models\Declaracion;
+use App\Models\Maqueta;
 use PDF;
 use SimpleSoftwareIO\QrCode\Facades\QrCode;
 
