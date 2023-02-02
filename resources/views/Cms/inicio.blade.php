@@ -10,7 +10,7 @@
   </div>
 
   <div class="col-md-2">
-    <a href="{{ URL::to('cms/design/Portada') }}" class="tile tile-default">
+    <a href="{{ URL::to('cms/plantilla') }}" class="tile tile-default">
       <span class="far fa-object-group text-info"></span>
       <p class="text-primary">Editar Diseño</p>
     </a>
