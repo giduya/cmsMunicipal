@@ -1,4 +1,4 @@
-@extends('ayudig.cms.menu')
+@extends('ayudig.Cms.menu')
 
 
 
