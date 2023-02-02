@@ -59,7 +59,9 @@ class CmsController extends Controller
   {
     $maqueta = Maqueta::first();
 
-    return view('Cms.menuPrincipal');
+    dd($maqueta); exit;
+
+    //return view('Cms.menuPrincipal');
   }
 
 }///API CONTROLLER
