@@ -57,9 +57,8 @@ class CmsController extends Controller
 
   public function menu()
   {
-    echo "crear";
-
     $maqueta = Maqueta::create(['plantilla' => 1]);
+    $maqueta->save();
 
     dd($maqueta); exit;
 
