@@ -17,7 +17,7 @@
   </div>
 
   <div class="col-md-2">
-    <a href="{{ URL::to('cms/modulo/1') }}" class="tile tile-default">
+    <a href="{{ URL::to('cms/menu') }}" class="tile tile-default">
       <span class="far fa-sitemap text-danger"></span>
       <p class="text-primary">Editar Menú</p>
     </a>
