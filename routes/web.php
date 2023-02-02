@@ -17,7 +17,7 @@ use App\Models\Declaracion;
 |
 */
 
-Route::get('/', [App\Http\Controllers\CmsController::class, 'landing'])->name('landing');
+Route::get('/', [App\Http\Controllers\LandingController::class, 'index'])->name('landing');
 
 Route::get('/apps', [App\Http\Controllers\CmsController::class, 'apps']);
 
