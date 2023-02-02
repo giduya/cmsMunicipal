@@ -49,7 +49,7 @@ return [
       'mongodb' => [
         'driver' => 'mongodb',
         'dsn' => 'mongodb+srv://admin:cBRtY2gZz!9uUfu@cluster0.ojo6r.mongodb.net',
-        'database' => 'bd_cms',
+        'database' => 'bd_',
       ],
       'mysql' => [
           'driver' => 'mysql',
