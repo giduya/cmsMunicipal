@@ -1,4 +1,4 @@
-@extends('panel.app')
+@extends('Panel.app')
 
 
 
