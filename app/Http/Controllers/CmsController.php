@@ -50,7 +50,7 @@ class CmsController extends Controller
 
   public function cms()
   {
-    return view('Panel.app');
+    return view('Panel.inicio');
   }
 
 
