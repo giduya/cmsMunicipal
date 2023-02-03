@@ -18,7 +18,9 @@ class LandingController extends Controller
   {
     $array = explode(".", $_SERVER['SERVER_NAME'],2);
 
-    return view('Plantilla.index');
+    $archivos = Storage::disk('local')->allFiles();
+
+    return view('Plantilla.index')->with('archivos',$archivos);
   }
 
 }///API CONTROLLER
