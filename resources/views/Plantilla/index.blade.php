@@ -9,6 +9,7 @@
 
 </body>
 <form action="{{ url('subir') }}" method="post"  enctype="multipart/form-data">
+  <input type="hidden" name="_token" value="{{ csrf_token() }}">
 
 
 <input id="imagen" type="file" name="imagen" title='Seleccionar Imagen:' accept="image/*">
