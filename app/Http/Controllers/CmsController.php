@@ -74,9 +74,9 @@ class CmsController extends Controller
 
     $file = Storage::disk('public')->get($filename);
 
-    $archivos = Storage::disk('public')->allFiles();
+    //$archivos = Storage::disk('public')->allFiles();
 
-    dd($archivos); exit;
+    //dd($archivos); exit;
 
   }
 
