@@ -15,7 +15,7 @@
 <input id="imagen" type="file" name="imagen" title='Seleccionar Imagen:' accept="image/*">
 
 
-<button class="btn btn-info pull-right" tabindex="5" type="submit" form="validate">Siguiente</button>
+<button type="submit">Siguiente</button>
 
 </form>
 </body>
