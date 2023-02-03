@@ -5,12 +5,14 @@ use App\Models\Cliente;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Storage;
 
 use App\Models\Auxiliares;
 use App\Models\Catalogo;
 use App\Models\Maqueta;
 use PDF;
 use SimpleSoftwareIO\QrCode\Facades\QrCode;
+
 
 
 class CmsController extends Controller
