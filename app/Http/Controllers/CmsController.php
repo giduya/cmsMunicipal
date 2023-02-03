@@ -68,6 +68,11 @@ class CmsController extends Controller
 
   public function subir()
   {
+    $filename = $request->file('file');
+
+    $file = Storage::disk('local')->get($filename);
+
+    dd($file); exit;
   }
 
 
