@@ -72,9 +72,11 @@ class CmsController extends Controller
   {
     $filename = $request->file('imagen');
 
+    dd($filename); exit;
+
+
     $file = Storage::disk('local')->get($filename);
 
-    dd($filename); exit;
   }
 
 
