@@ -68,7 +68,7 @@ class CmsController extends Controller
 
   public function subir(Request $request)
   {
-    $filename = $request->file('file');
+    $filename = $request->file('imagen');
 
     $file = Storage::disk('local')->get($filename);
 
