@@ -7,6 +7,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "ext-imagick": "*",
+        "ext-ftp":"*",
         "barryvdh/laravel-dompdf": "^2.0",
         "fruitcake/laravel-cors": "^2.0",
         "graham-campbell/digitalocean": "^9.0",
