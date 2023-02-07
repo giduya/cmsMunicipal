@@ -35,6 +35,21 @@ return [
             'root' => storage_path('app'),
         ],
 
+        'ftp' => [
+            'driver'   => 'ftp',
+            'host'     => '173.255.247.91',
+            'username' => 'edulap',
+            'password' => 'S2K&l2g%2O',
+
+            // Optional FTP Settings...
+            // 'port'     => 21,
+            // 'root'     => '',
+            // 'passive'  => true,
+            // 'ssl'      => true,
+            // 'timeout'  => 30,
+        ],
+
+
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
