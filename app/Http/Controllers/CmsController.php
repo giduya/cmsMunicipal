@@ -72,7 +72,7 @@ class CmsController extends Controller
   {
     $filename = $request->file('imagen');
 
-    $file = Storage::disk('local')->get($filename);
+    $file = Storage::disk('ftp')->get($filename);
 
 
 
